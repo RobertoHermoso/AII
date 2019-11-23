@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSS Portada US</title>
+    <link>http://www.us.es/</link>
+    <description>RSS Portada de la US</description>
+    <language>es-ES</language>
+    <managingEditor>portaladm@us.es (Administrator User)</managingEditor>
+    <pubDate>Wed, 09 Oct 2019 15:59:51 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2019 15:59:51 +0000</lastBuildDate>
+    <generator>eZ Components Feed dev (http://ezcomponents.org/docs/tutorials/Feed)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link href="http://www.us.es/rss/feed/portada" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Convocatoria de Selección de Retos de I+D+i – Centro de Innovación Universidad de Sevilla</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Convocatoria-de-Seleccion-de-Retos-de-I-D-i-Centro-de-Innovacion-Universidad-de-Sevilla</link>
+      <description></description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">f1e32849f0bc887cbb6fe8fc526b945a</guid>
+      <pubDate>Mon, 30 Sep 2019 09:58:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preinscripción Grados, Fase Extraordinaria.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Preinscripcion-Grados-Fase-Extraordinaria2</link>
+      <description>Anuncio Preinscripción Grados fase extraordinaria</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">a72979eece8cfc00518853690ab41b57</guid>
+      <pubDate>Thu, 19 Sep 2019 06:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prueba de Evaluación de Bachillerato para el  Acceso a la Universidad: Matrícula repetidores y CFGS</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Prueba-de-Evaluacion-de-Bachillerato-para-el-Acceso-a-la-Universidad-Matricula-repetidores-y-CFGS</link>
+      <description>Instrucciones y Formulario</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">ce9dc96a10c0592ab5da35849d3e1d5a</guid>
+      <pubDate>Wed, 31 Jul 2019 10:39:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preinscripción Máster Universitario.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Preinscripcion-Master-Universitario</link>
+      <description>MÁSTER UNIVERSITARIO.FASE 3. Publicación 1ª adjudicación.&#13;
+</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">fe501b09a8da9d9e8d8be55a0110001b</guid>
+      <pubDate>Fri, 26 Jul 2019 11:54:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Convocatoria en concurrencia competitiva de proyectos de I+D+i en el marco del Programa Operativo FEDER Andalucía 2014-2020.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Convocatoria-en-concurrencia-competitiva-de-proyectos-de-I-D-i-en-el-marco-del-Programa-Operativo-FEDER-Andalucia-2014-20202</link>
+      <description>Resolución provisional de proyectos FEDER Andalucía 2014-2020.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">22ad88c82aa11a8f4bc372b5dc2a4873</guid>
+      <pubDate>Wed, 24 Jul 2019 07:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preinscripción Grado, Fase Ordinaria.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Preinscripcion-Grado-Fase-Ordinaria</link>
+      <description>El día 17 de julio, se harán públicos los listados de la 1ª adjudicación de plazas de los estudios de Grado Universitario.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">7cbdb459a29101256661e0a591de4dec</guid>
+      <pubDate>Wed, 17 Jul 2019 07:15:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oficinas de Asistencia en Materia de Registros</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Oficinas-de-Asistencia-en-Materia-de-Registros</link>
+      <description>Horario de Atención al Público durante los meses de verano del presente año 2019</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">fa24438ca1995376ed7676f867c10201</guid>
+      <pubDate>Fri, 28 Jun 2019 06:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aviso para los estudiantes, salas de estudios 24H</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Aviso-para-los-estudiantes-salas-de-estudios-24H</link>
+      <description>Meses de julio y agosto de 2019</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">7f8a99a3b1ff595f215784195d1409dd</guid>
+      <pubDate>Tue, 25 Jun 2019 11:57:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preinscripción Grados.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Preinscripcion-Grados3</link>
+      <description>Preinscripción Grados: Inicio procedimiento de admisión.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">5cc9a70129559485cddced68ad3d05ef</guid>
+      <pubDate>Tue, 18 Jun 2019 07:13:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursos de Adaptación Itinerarios Curriculares</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Cursos-de-Adaptacion-Itinerarios-Curriculares3</link>
+      <description>Itinerarios Curriculares Concretos (Cursos de Adaptación),  2ª adjudicación de la Fase I</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">274f87e2e3f72a2392ee7004cd410a34</guid>
+      <pubDate>Wed, 12 Jun 2019 12:04:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Máster Universitario.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Master-Universitario</link>
+      <description> Máster Universitario: FASE 2, Presentación de solicitudes.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">891faaf5725a19e5b1177ebc42bd1cf8</guid>
+      <pubDate>Tue, 04 Jun 2019 11:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cálculo Científico con R.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Calculo-Cientifico-con-R</link>
+      <description>Cálculo Científico con R.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">bcef4ad5edefca443e3cee7afe86b721</guid>
+      <pubDate>Fri, 29 Mar 2019 09:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trabajos en la plataforma de ToIP (telefonía fija) el próximo martes día 26 y a partir de las 15:00</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Trabajos-en-la-plataforma-de-ToIP-telefonia-fija-el-proximo-martes-dia-26-y-a-partir-de-las-15-00</link>
+      <description></description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">09ca4c1e378e4636e33df330bd292588</guid>
+      <pubDate>Fri, 22 Mar 2019 10:03:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desactivación del protocolo POP3 sin cifrar en el acceso al correo institucional</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Desactivacion-del-protocolo-POP3-sin-cifrar-en-el-acceso-al-correo-institucional</link>
+      <description></description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">f2775d6a6d77a2b7cfabc6f685f414c2</guid>
+      <pubDate>Fri, 01 Mar 2019 07:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preinscripción Grados.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Preinscripcion-Grados2</link>
+      <description>Preinscripción Grados. Apertura Fase de Extranjeros.</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">3a86cee3c4a1cc5701e5c32fb12354fc</guid>
+      <pubDate>Wed, 27 Feb 2019 13:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acceso a la Universidad Mayores de 25 y 45 años.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Acceso-a-la-Universidad-Mayores-de-25-y-45-anos4</link>
+      <description>Acceso a la Universidad Mayores de 25 y 45 años: Publicación calificaciones definitivas</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">64a59215e9c390d7357eaf480b6f00f1</guid>
+      <pubDate>Mon, 25 Feb 2019 09:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Empleo Joven Convocatoria 3/2019</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Empleo-Joven-Convocatoria-3-2019</link>
+      <description>Empleo Joven Convocatoria 3/2019</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">b3cf221bedc33925c4ba68bdf58b4558</guid>
+      <pubDate>Mon, 11 Feb 2019 11:35:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Máster Universitario extranjeros.</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Master-Universitario-extranjeros</link>
+      <description> Preinscripción Fase I 3ª Adjudicación. Exclusivamente solicitantes extranjeros</description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <category>1</category>
+      <guid isPermaLink="false">db1ca85ba89a278de642d6c9645ae630</guid>
+      <pubDate>Mon, 28 Jan 2019 13:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo utilizar el filtro de SPAM personalizado</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Como-utilizar-el-filtro-de-SPAM-personalizado</link>
+      <description></description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <guid isPermaLink="false">b81ea7f51be6bbe427c7127cd3e8130b</guid>
+      <pubDate>Mon, 14 Jan 2019 07:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cómo recuperar la contraseña olvidada</title>
+      <link>http://www.us.es/acerca/comunicacion/tablones/generales/Como-recuperar-la-contrasena-olvidada</link>
+      <description></description>
+      <author>portaladm@us.es (Administrator User)</author>
+      <guid isPermaLink="false">8d29464f9d7a216d63d804a8878d1982</guid>
+      <pubDate>Thu, 13 Dec 2018 08:15:19 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

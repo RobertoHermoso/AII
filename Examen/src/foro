@@ -1,0 +1,911 @@
+<!DOCTYPE html><html lang='es'><head><meta charset='ISO-8859-15'><link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700' rel='stylesheet' type='text/css'>
+
+<title>Estrenos de películas - El Séptimo Arte</title>
+    <script src="https://s3.eu-central-1.amazonaws.com/sc-devel/Skins/rmp_smcservices.js"></script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/5555/ELSEPTIMOARTE.ES.NT/nautilus_desktop', [980, 200], 'smartclip-nautilus-desktop').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+if (!document.getElementById('adpulse_gumgum')){
+    (function(w, t, d, s) {
+        d = w.document;
+        w.ggv2id = t;
+        s = d.createElement('script');
+        s.async = true;
+        s.id = 'adpulse_gumgum';
+        s.src = 'https://js.gumgum.com/services.js';
+        d.getElementsByTagName('head')[0].appendChild(s);
+    }(top, '77d198d3'));
+}
+</script>
+<script type="text/javascript">
+    window._seedtagq = window._seedtagq || [];
+    window._seedtagq.push(['_setId', '0984-7947-01']);
+    (function () {
+      var st = document.createElement('script');
+      st.type = 'text/javascript';
+      st.async = true;
+      st.src = ('https:' == document.location.protocol
+        ? 'https'
+        : 'http') + '://config.seedtag.com/loader.js?v=' + Math.random();
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(st, s);
+    })();
+    </script>
+
+
+
+<meta name='description' content='Estrenos de catelera en cines.'><meta name='language' value='es'><meta name='distribution' value='global'><meta name='robots' value='index, follow'><link href='/septimo/commons/css/style.css' rel='stylesheet'/><link href='/septimo/commons/css/listados.css' rel='stylesheet'/><script src='/septimo/commons/js/script.js'></script></head>
+<body class='site_espana index desktop explorer ' id='septimo_estrenos' data-package='septimo' data-response='index'><div class='wrapper cabecera'>
+            <header id='body-header'>
+                 <div id="login-state" class="login">
+    
+	
+        <a href="#" class='do_login'>
+    Inicia sesi&oacute;n / Reg&iacute;strate
+</a>
+
+    
+        <section id="login-flotante" class="wrapper-rejillas">
+    <div>
+        <form action="/foro/index.php?action=login2" method="POST">
+            <h3>Bienvenido a El S&eacute;ptimo Arte</h3>
+            <h4>Noticias de cine,  cartelera, críticas, foros y mucho más.</h4>
+
+            <fieldset>
+                <h5>Entra</h5>
+                <input type="text" value=""  name="user"  required="required" placeholder="Nombre de usuario">
+                <input type="password" name="passwrd"  required="required" placeholder="Contrase&ntilde;a">
+
+                <p  class="recordar"><a href="/foro/index.php?action=reminder">&iquest; Olvidaste tu contrase&ntilde;a ?</a></p>
+
+                <button title="Accede y participa">Acceder</button>
+
+
+				<input type="hidden" name="b140833" value="fec9616046caaa7bed0a937054cdec6d" />
+            </fieldset>
+        </form>
+
+        <form action="/foro/index.php?action=register">
+
+            <fieldset>
+                <h5>Reg&iacute;strate</h5>
+                <p class="ser_miembro">&iquest; Todav&iacute;a no eres miembro ?</p>
+                <button title="Forma parte de nuestra comunidad">Quiero ser miembro</button>
+
+            </fieldset>
+        </form>
+    </div>
+
+</section>
+
+</div>
+
+<h1  itemscope="" itemtype="https://schema.org/Organization">
+<a href="/""/mexico/" title="El Septimo Arte" id="logo" itemprop="url">
+    <img itemprop="logo" src="/commons/images/elseptimoarte.png" alt="Logo El Septimo Arte" width="310" height="58"
+         title="Todo lo que buscas sobre cine: noticias, cartelera, películas, críticas, foros, blogs, wikicine y mucho más." />
+</a>
+</h1>
+
+<section itemscope="" itemtype="https://schema.org/WebSite" id="buscando">
+<link itemprop="url" href="https://www.elseptimoarte.net" />
+
+<form itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction" action="/busqueda" method="get" id="buscador-cabecera" accept-charset="UTF-8">
+    <h2>Buscador</h2>
+
+    <meta itemprop="target" content="https://www.elseptimoarte.net/busqueda?q={q}&cx=partner-pub-5335893293350171%3A6016307435&cof=FORID%3A11&ie=ISO-8859-1&oe=ISO-8859-1" />
+
+	
+	    <div class="redes-sociales">
+    <a href="https://twitter.com/el7arte" target="blank" title="S&iacute;gue a el7arte en Twitter"><img width="19" height="16"  alt="Twitter"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAMAAADDGrRQAAAAhFBMVEVMaXH///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8NoezaAAAAK3RSTlMA9n0+IFj7BgEM7FEK8J9rKYJ680SH1c03ddpB3y4nZL2i4umR4TmzRhZgRkx8oAAAAI1JREFUeF5VzucOgzAMhdHLTCh709JN933/9yuKqULPL/uTLBkrfuwpQAMIIFRG8hpUN6BgpU1raUy5jwf59DFLKUogcsgwa5KE4oK5bc0Y7ilcAMPkcO0EQN3554iZl3JlB8Pd0MqllbQ6JU27NRfOAT+v5boeYTSftqfoC4ho28nT50DDeo9xPER2/wLCihqtwIricgAAAABJRU5ErkJggg=="  /></a>
+
+    <a href="https://www.facebook.com/elseptimoarte.net" target="_blank" title="S&iacute;gue a la página Facebook de elseptimoarte.net"><img width="10" height="18" alt="Facebook" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAMAAABVab95AAAASFBMVEVMaXH///////////////////////////////////////////////////////////////////////////////////////////8Pr8ZAAAAAF3RSTlMAGm7wCvqAEJCyMIhYl92gPB/B7+BGURuOf2kAAABISURBVHhetcvJDYBADENRDySEsO/pv1McCSEa4J+eDwbrNg09LqrUkZ1kldijkD21QMBa0hJiI7kaRxNP8lKBwSfCff7cfuMNNnQHnOiD7OgAAAAASUVORK5CYII=" /></a>
+
+    <a href="/rss.php" target="_blank" title="Mantente al d&iacute;a con nuestro RSS"><img width="19" height="18" alt="RSS" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAMAAACO0hVbAAAAq1BMVEVMaXH///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9Hbg9cAAAAOHRSTlMAzMHJAUAD/vpw1UiskAgpO2neZoAPM74WhVO76yGw9E/w+Z0mWG+2oWAg2f0r4jCUpt9FdezENxjCq/EAAADBSURBVHheVY9ZcoMwEAUbbFBszO54N9g4e7xl1/1PlhmUokj/PKlrpp7EyHx5h+cFfUZWOT5G/51jMOvcz/Tw3bTSLEM6SHaVUTu/pc9prdJzsiz8OAqB/Eakn3Qd51xssJdT3OsdbEVqVwB8TMat3FyglBy78pe4UbkFLbrHkb7qekhqJHCwKESWUEncQTT3VzA7WlsM2Yl7INVnZfCkQSK3CbkVphC48KSZTN0KwkYneLO2hs99vRwC7/IzuMrELwG1IOboH/vpAAAAAElFTkSuQmCC" /></a>
+</div>
+	
+
+    <input itemprop="query-input" id="busca_text" type="search" name="q" value="" placeholder="Buscar..." required="required" aria-required="true" autocomplete="off" aria-autocomplete="none" />
+    <input type="hidden" name="cx" value="partner-pub-5335893293350171:6016307435" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="ISO-8859-15">
+    <input type="hidden" name="oe" value="ISO-8859-15">
+
+    <input type="image" name="sa" width="16" height="17" title="Buscar en la web" alt="Buscar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAAAAADxxHMYAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAC2SURBVBgZBcAxSoIBGAbg71QPgtDSIPx0gaItaKm1WqMTuAoOQnkAcXcQtxxFKAJbRGgTwqTQNwrXk222k2ugtIZJkmTYgjJIZveX97NkAHV+TBd0czxHjTIFTDNCbXIDuMkGdUgH0MkB9ZsG0OSAWuUB8JBP1EuWLdBa5hnV7DNuoz3OzxnKU7LuP/XXyeEOxeMuSbJb5O+WQtN7fZ/3mvY8+ysFgJNFvi8KAE4/8lUAoLN6+wec24AaYqp2xAAAAABJRU5ErkJggg==" />
+    
+
+
+		
+</form>
+</section>
+
+
+
+
+
+<div class="wrapper" id="mainmenu">
+    <nav>
+        <div class="logo">
+            <a href="/" title="Ir a inicio">&nbsp;</a>
+        </div><ul class="level1">
+    <li  class="level2 "><a title="Noticias de cine" href="/noticias/">Noticias</a>
+    <ul>
+        <li><a title="Actualidad de cine" href="/noticias/actualidad/">Actualidad</a></li>
+        <li><a title="Estrenos de cartelera" href="/noticias/estrenos/">Estrenos</a></li>
+        
+        <li><a title="TV y series" href="/noticias/tv-series/">TV-Series</a></li>
+        <li><a title="Taquilla España y USA" href="/noticias/ranking-de-taquilla/">Ranking de taquilla</a></li>
+        <li><a title="Mundo DVD y Blu-ray" href="/noticias/mundo-dvd-y-blu-ray/">DVD y Blu-ray</a></li>
+        <li><a title="Festivales y premios" href="/noticias/festivales-y-premios/">Festivales y premios</a></li>
+        <li><a title="Críticas de películas" href="/noticias/criticas/">Críticas</a></li>
+        <li><a title="Encuestas de cine" href="/noticias/encuestas/">Encuestas</a></li>
+        <li><a title="Copa de cine" href="/noticias/copa-de-cine/">Copa de cine</a></li>
+        <li><a title="Archivo de noticias" href="/noticias/archivo/">Archivo</a></li>
+    </ul>
+    </li>
+
+    <li><a title="Foro de cine" href="/foro/" >Foro</a></li>
+
+    <li  class="level2 selected"><a title="Próximos estrenos" href="/estrenos/" class="selected">Estrenos</a>
+    <ul>
+        <li><a title="Estrenos de cartelera en España" href="/estrenos/">Estrenos</a></li>
+        <li><a title="Próximos estrenos en USA" href="/estrenos/usa/">Estrenos USA</a></li>
+        <li><a title="Estrenos en DVD" href="/estrenos/dvd-alquiler/">Lanzamientos DVD alquiler</a></li>
+        <li><a title="Próximos lanzamientos DVD venta" href="/estrenos/dvd-venta/">DVD venta</a></li>
+        <li><a title="Estrenos HD Blu-ray" href="/estrenos/blu-ray/" >Estrenos Blu-ray</a></li>
+        <li><a title="Próximos estrenos de cartelera México" href="/estrenos/mexico/">Estrenos México</a></li>
+    </ul>
+    </li>
+     
+
+    <li  class="level2  "><a title="Fichas de películas" href="/peliculas/">Películas</a>
+    <ul>
+        <li><a title="Listado de películas" href="/peliculas/">Películas</a></li>
+        <li><a title="Listado de películas por título español" href="/peliculas/titulo-castellano/">Listado título castellano</a></li>
+        <li><a title="Taquilla España y USA" href="/noticias/ranking-de-taquilla/">Ranking de taquilla</a></li>
+        <li><a title="Listado de películas por título original" href="/peliculas/titulo-original/" >Listado título original</a></li>
+    </ul>
+    </li>
+
+    <li  class="level2 "><a title="Mundo DVD y Blu-ray" href="/noticias/mundo-dvd-y-blu-ray/">DVD y Blu-ray</a>
+    <ul>
+   <li><a title="Noticias DVD y Blu-ray" href="/noticias/mundo-dvd-y-blu-ray/">Noticias DVD y Blu-ray</a></li>
+        <li><a title="Estrenos en DVD" href="/estrenos/dvd-alquiler/">Estrenos DVD</a></li>
+        <li><a title="Estrenos DVD venta" href="/estrenos/dvd-venta/">Lanzamientos DVD venta</a></li>
+        <li><a title="Estrenos Blu-ray" href="/estrenos/blu-ray/" >Estrenos Blu-ray</a></li>
+        <li><a title="Estrenos Blu-ray" href="http://www.elseptimoarte.net/foro/index.php/board,5.0.html" >Foro Mundo DVD</a></li>
+    </ul>
+    </li>
+
+    <li  ><a title="Tráilers de películas" href="/peliculas/trailers/">Tráilers</a></li>
+
+   
+   
+    <li><a title="Críticas de películas" href="/foro/index.php/board,4.0.html">Críticas</a></li>
+
+    <li><a title="Ranking de taquilla" href="/noticias/ranking-de-taquilla/" >Taquilla</a></li>
+
+    <li  ><a title="Festivales y premios" href="/noticias/festivales-y-premios/" >Festivales</a></li>
+
+    <li  ><a title="Portal de México" href="/mexico/">México</a></li>
+  
+
+            <li id="abrir-menu-secundario"><a href="javascript:void(0);" title="Abrir menú secundario"><img width="27" height="22"  alt="menú secundario" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAWCAYAAAFGTdcdAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANdJREFUeNpi+P//v/1/JMAIxAzIgIkBDQAEEEgFXAkLSACrUoAAwjAI3VAPIP6PFQN1PvmPAwAEEIrtaMABxTXY7MQJWKCWYwOeeI3Fp/MpQACBXPsEyJBmIA08xRt6+ADIl89xhixu/JwiG+3JsNEeIIBA8XzyP2ngJL74xxu7jOT4i4EumvAlIbw2vSBRzwuyIpnsgDhJYoogL3IBAgykCZTiJRhoD16AvJVIRsiTbBHIHrKzJN1SLiWW2ZORQkjFIPPtyS2EyQFPh3ec0Q2wQKux4ZepAQfs5Wt5po4GAAAAAElFTkSuQmCC" /></a></li>
+         </ul>
+    </nav>
+</div><div class="wrapper-rejillas hidden" id="menu-secundario">
+    <div>
+    
+       <h2>Menu <button aria-label="Cerrar">&times;</button></h2>
+    
+     
+
+        <ul class="level1">
+    <li  class="level2 "><a title="Noticias de cine" href="/noticias/">Noticias</a>
+    <ul>
+        <li><a title="Actualidad de cine" href="/noticias/actualidad/">Actualidad</a></li>
+        <li><a title="Estrenos de cartelera" href="/noticias/estrenos/">Estrenos</a></li>
+        
+        <li><a title="TV y series" href="/noticias/tv-series/">TV-Series</a></li>
+        <li><a title="Taquilla España y USA" href="/noticias/ranking-de-taquilla/">Ranking de taquilla</a></li>
+        <li><a title="Mundo DVD y Blu-ray" href="/noticias/mundo-dvd-y-blu-ray/">DVD y Blu-ray</a></li>
+        <li><a title="Festivales y premios" href="/noticias/festivales-y-premios/">Festivales y premios</a></li>
+        <li><a title="Críticas de películas" href="/noticias/criticas/">Críticas</a></li>
+        <li><a title="Encuestas de cine" href="/noticias/encuestas/">Encuestas</a></li>
+        <li><a title="Copa de cine" href="/noticias/copa-de-cine/">Copa de cine</a></li>
+        <li><a title="Archivo de noticias" href="/noticias/archivo/">Archivo</a></li>
+    </ul>
+    </li>
+
+    <li><a title="Foro de cine" href="/foro/" >Foro</a></li>
+
+    <li  class="level2 selected"><a title="Próximos estrenos" href="/estrenos/" class="selected">Estrenos</a>
+    <ul>
+        <li><a title="Estrenos de cartelera en España" href="/estrenos/">Estrenos</a></li>
+        <li><a title="Próximos estrenos en USA" href="/estrenos/usa/">Estrenos USA</a></li>
+        <li><a title="Estrenos en DVD" href="/estrenos/dvd-alquiler/">Lanzamientos DVD alquiler</a></li>
+        <li><a title="Próximos lanzamientos DVD venta" href="/estrenos/dvd-venta/">DVD venta</a></li>
+        <li><a title="Estrenos HD Blu-ray" href="/estrenos/blu-ray/" >Estrenos Blu-ray</a></li>
+        <li><a title="Próximos estrenos de cartelera México" href="/estrenos/mexico/">Estrenos México</a></li>
+    </ul>
+    </li>
+     
+
+    <li  class="level2  "><a title="Fichas de películas" href="/peliculas/">Películas</a>
+    <ul>
+        <li><a title="Listado de películas" href="/peliculas/">Películas</a></li>
+        <li><a title="Listado de películas por título español" href="/peliculas/titulo-castellano/">Listado título castellano</a></li>
+        <li><a title="Taquilla España y USA" href="/noticias/ranking-de-taquilla/">Ranking de taquilla</a></li>
+        <li><a title="Listado de películas por título original" href="/peliculas/titulo-original/" >Listado título original</a></li>
+    </ul>
+    </li>
+
+    <li  class="level2 "><a title="Mundo DVD y Blu-ray" href="/noticias/mundo-dvd-y-blu-ray/">DVD y Blu-ray</a>
+    <ul>
+   <li><a title="Noticias DVD y Blu-ray" href="/noticias/mundo-dvd-y-blu-ray/">Noticias DVD y Blu-ray</a></li>
+        <li><a title="Estrenos en DVD" href="/estrenos/dvd-alquiler/">Estrenos DVD</a></li>
+        <li><a title="Estrenos DVD venta" href="/estrenos/dvd-venta/">Lanzamientos DVD venta</a></li>
+        <li><a title="Estrenos Blu-ray" href="/estrenos/blu-ray/" >Estrenos Blu-ray</a></li>
+        <li><a title="Estrenos Blu-ray" href="http://www.elseptimoarte.net/foro/index.php/board,5.0.html" >Foro Mundo DVD</a></li>
+    </ul>
+    </li>
+
+    <li  ><a title="Tráilers de películas" href="/peliculas/trailers/">Tráilers</a></li>
+
+   
+   
+    <li><a title="Críticas de películas" href="/foro/index.php/board,4.0.html">Críticas</a></li>
+
+    <li><a title="Ranking de taquilla" href="/noticias/ranking-de-taquilla/" >Taquilla</a></li>
+
+    <li  ><a title="Festivales y premios" href="/noticias/festivales-y-premios/" >Festivales</a></li>
+
+    <li  ><a title="Portal de México" href="/mexico/">México</a></li>
+  
+</ul>
+
+        
+    </div>
+</div><div id="frame-cabecera" class="banner hmads_728x90">
+<!-- /5555/ELSEPTIMOARTE.ES.NT/nautilus_desktop -->
+<div id='smartclip-nautilus-desktop'>
+<script>
+googletag.cmd.push(function() { googletag.display('smartclip-nautilus-desktop'); });
+</script>
+</div>
+</div>
+            </header>
+        </div>
+    
+
+
+    <div class='wrapper'>
+
+
+
+    <section id="breadcrumbs" >
+    <ol typeof="BreadcrumbList" vocab="http://schema.org/">
+        
+        
+                         <li typeof="ListItem" property="itemListElement">
+                <a href="/" typeof="WebPage" property="item" title="El Septimo Arte">
+                    <span property="name">Inicio</span>
+                </a>
+                <meta content="1" property="position">
+            </li>
+        
+
+                                <li typeof="ListItem" property="itemListElement">
+                /                <a href="/estrenos/" typeof="WebPage" property="item">                    <span property="name">Estrenos</span>
+            </a>            <meta content="2" property="position">
+            </li>
+        
+    </ol>
+    </section>
+
+</div>
+
+
+
+            <div class='wrapper contenido'>
+            <main id="content" class="listado_general estrenos section">
+                <section class="highlight">
+    <h2>Estrenos</h2>
+    <div id="submenu">
+
+        
+
+
+
+        <div class="filters">
+            <div class="ordena_pelis">
+<form method="post" action="" style="margin: 0; ">
+<select name="orden" class="filtro_orden" autocomplete="off" formmethod="post">
+        <option value="relevancia" >Relevancia</option>
+        <option value="fecha"    selected="selected">Fecha estreno</option>
+</select>
+</div>
+</form>
+            <div>
+    <select name="meses" autocomplete="off" data-url="/estrenos/2019/:value/">
+                    <option value="-" selected="selected"> Mes </option>
+                            <option value="Enero" >Enero</option>
+                    <option value="Febrero" >Febrero</option>
+                    <option value="Marzo" >Marzo</option>
+                    <option value="Abril" >Abril</option>
+                    <option value="Mayo" >Mayo</option>
+                    <option value="Junio" >Junio</option>
+                    <option value="Julio" >Julio</option>
+                    <option value="Agosto" >Agosto</option>
+                    <option value="Septiembre" >Septiembre</option>
+                    <option value="Octubre" >Octubre</option>
+                    <option value="Noviembre" >Noviembre</option>
+                    <option value="Diciembre" >Diciembre</option>
+        
+    </select>
+</div>
+            <div>
+    <select name="anios" autocomplete="off" data-url="/estrenos/:value/">
+                    <option  value="-" selected="selected"> A&ntilde;o </option>
+                            <option value="2026" >2026</option>
+                    <option value="2024" >2024</option>
+                    <option value="2022" >2022</option>
+                    <option value="2021" >2021</option>
+                    <option value="2020" >2020</option>
+                    <option value="2019" >2019</option>
+                    <option value="2018" >2018</option>
+                    <option value="2017" >2017</option>
+                    <option value="2016" >2016</option>
+                    <option value="2015" >2015</option>
+                    <option value="2014" >2014</option>
+                    <option value="2013" >2013</option>
+                    <option value="2012" >2012</option>
+                    <option value="2011" >2011</option>
+                    <option value="2010" >2010</option>
+                    <option value="2009" >2009</option>
+                    <option value="2008" >2008</option>
+                    <option value="2007" >2007</option>
+                    <option value="2006" >2006</option>
+                    <option value="2005" >2005</option>
+                    <option value="2004" >2004</option>
+                    <option value="2003" >2003</option>
+                    <option value="2002" >2002</option>
+                    <option value="2001" >2001</option>
+                    <option value="2000" >2000</option>
+                    <option value="1999" >1999</option>
+                    <option value="1998" >1998</option>
+                    <option value="1997" >1997</option>
+                    <option value="1996" >1996</option>
+                    <option value="1995" >1995</option>
+                    <option value="1994" >1994</option>
+                    <option value="1993" >1993</option>
+                    <option value="1992" >1992</option>
+                    <option value="1991" >1991</option>
+                    <option value="1990" >1990</option>
+                    <option value="1989" >1989</option>
+                    <option value="1988" >1988</option>
+                    <option value="1987" >1987</option>
+                    <option value="1986" >1986</option>
+                    <option value="1985" >1985</option>
+                    <option value="1984" >1984</option>
+                    <option value="1983" >1983</option>
+                    <option value="1982" >1982</option>
+                    <option value="1981" >1981</option>
+                    <option value="1980" >1980</option>
+                    <option value="1979" >1979</option>
+                    <option value="1978" >1978</option>
+                    <option value="1977" >1977</option>
+                    <option value="1976" >1976</option>
+                    <option value="1975" >1975</option>
+                    <option value="1974" >1974</option>
+                    <option value="1973" >1973</option>
+                    <option value="1972" >1972</option>
+                    <option value="1971" >1971</option>
+                    <option value="1970" >1970</option>
+                    <option value="1969" >1969</option>
+                    <option value="1968" >1968</option>
+                    <option value="1967" >1967</option>
+                    <option value="1966" >1966</option>
+                    <option value="1965" >1965</option>
+                    <option value="1964" >1964</option>
+                    <option value="1963" >1963</option>
+                    <option value="1962" >1962</option>
+                    <option value="1961" >1961</option>
+                    <option value="1960" >1960</option>
+                    <option value="1959" >1959</option>
+                    <option value="1958" >1958</option>
+                    <option value="1957" >1957</option>
+                    <option value="1956" >1956</option>
+                    <option value="1955" >1955</option>
+                    <option value="1954" >1954</option>
+                    <option value="1953" >1953</option>
+                    <option value="1952" >1952</option>
+                    <option value="1951" >1951</option>
+                    <option value="1950" >1950</option>
+                    <option value="1949" >1949</option>
+                    <option value="1948" >1948</option>
+                    <option value="1947" >1947</option>
+                    <option value="1946" >1946</option>
+                    <option value="1945" >1945</option>
+                    <option value="1944" >1944</option>
+                    <option value="1943" >1943</option>
+                    <option value="1942" >1942</option>
+                    <option value="1941" >1941</option>
+                    <option value="1940" >1940</option>
+                    <option value="1939" >1939</option>
+                    <option value="1936" >1936</option>
+                    <option value="1934" >1934</option>
+                    <option value="1933" >1933</option>
+                    <option value="1932" >1932</option>
+                    <option value="1931" >1931</option>
+                    <option value="1930" >1930</option>
+                    <option value="1928" >1928</option>
+                    <option value="1927" >1927</option>
+                    <option value="1923" >1923</option>
+                    <option value="1054" >1054</option>
+        
+    </select>
+</div>
+        </div>
+
+        
+        <ul class="links">
+            <li class="selected"><a href="/estrenos/">España</a></li>
+            <li ><a href="/estrenos/usa/">EEUU</a></li>
+            <li ><a href="/estrenos/dvd-alquiler/">DVD alquiler</a></li>
+            <li ><a href="/estrenos/dvd-venta/">DVD venta</a></li>
+            <li ><a href="/estrenos/blu-ray/">Blu-ray</a></li>
+            <li ><a href="/estrenos/vod/">VOD</a></li>
+            <li ><a href="/estrenos/mexico/">México</a></li>
+        </ul>
+        
+
+</section>
+<section id="collections">
+                    <ul class="elements">
+                                        <li class="first"    data-lazy-image="/carteles/255/terminator._destino_oscuro_78915.jpg"  >
+                            <h3><a href="/peliculas/terminator-genisys-2-10114.html" title="Terminator: Destino oscuro">Terminator: Destino oscuro</a></h3>
+                            <p class="generos">Acción, ciencia f...</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/doctor_sueno_80131.jpg"  >
+                            <h3><a href="/peliculas/doctor-sleep-18288.html" title="Doctor Sueño">Doctor Sueño</a></h3>
+                            <p class="generos">Terror</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/los_rodriguez_y_el_mas_alla_79417.jpg"  >
+                            <h3><a href="/peliculas/los-rodriguez-y-el-mas-alla-18481.html" title="Los Rodríguez y el Más Allá">Los Rodríguez y el Más Allá</a></h3>
+                            <p class="generos">Aventuras, cienci...</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/la_oveja_shaun_la_pelicula_granjaguedon_77725.jpg"  >
+                            <h3><a href="/peliculas/shaun-the-sheep-movie-farmageddon-18901.html" title="La oveja Shaun, la película: Granjaguedon">La oveja Shaun, la película: Granjaguedon</a></h3>
+                            <p class="generos">Animación, aventu...</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/sin_filtro_79559.jpg"  >
+                            <h3><a href="/peliculas/chamboultout-19940.html" title="Sin filtro">Sin filtro</a></h3>
+                            <p class="generos">Comedia</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li class="first"    data-lazy-image="/carteles/255/sorry_we_missed_you_79925.jpg"  >
+                            <h3><a href="/peliculas/sorry-we-missed-you-19941.html" title="Sorry We Missed You">Sorry We Missed You</a></h3>
+                            <p class="generos">Drama</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/la_trinchera_infinita_79131.jpeg"  >
+                            <h3><a href="/peliculas/la-trinchera-infinita-19942.html" title="La trinchera infinita">La trinchera infinita</a></h3>
+                            <p class="generos">Drama</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/love_me_not_80348.jpg"  >
+                            <h3><a href="/peliculas/love-me-not-20830.html" title="Love Me Not">Love Me Not</a></h3>
+                            <p class="generos">Drama</p>
+                            <p>Octubre 31, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/las_ninas_bien_79613.jpg"  data-puntuacion="1,4">
+                            <h3><a href="/peliculas/las-ninas-bien-19330.html" title="Las niñas bien">Las niñas bien</a></h3>
+                            <p class="generos">Comedia</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/ventajas_de_viajar_en_tren_79553.jpg"  >
+                            <h3><a href="/peliculas/ventajas-de-viajar-en-tren-19560.html" title="Ventajas de viajar en tren">Ventajas de viajar en tren</a></h3>
+                            <p class="generos">Thriller</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li class="first"    data-lazy-image="/carteles/255/detective_conan_79836.jpg"  >
+                            <h3><a href="/peliculas/meitantei-conan-konjo-no-fisuto-19562.html" title="Detective Conan: The Fist of Blue Sapphire">Detective Conan: The Fist of Blue Sapphire</a></h3>
+                            <p class="generos">Animación, acción...</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/estafadoras_de_wall_street_79129.jpg"  data-puntuacion="10,0">
+                            <h3><a href="/peliculas/Hustlers-19641.html" title="Estafadoras de Wall Street">Estafadoras de Wall Street</a></h3>
+                            <p class="generos">Comedia, crimen, ...</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/the_farewell_79917.jpg"  >
+                            <h3><a href="/peliculas/the-farewell-19714.html" title="The Farewell">The Farewell</a></h3>
+                            <p class="generos">Comedia, drama</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/pequenas_mentiras_para_estar_juntos_79730.jpg"  >
+                            <h3><a href="/peliculas/nous-finirons-ensemble-19944.html" title="Pequeñas mentiras para estar juntos">Pequeñas mentiras para estar juntos</a></h3>
+                            <p class="generos">Comedia, drama</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/amundsen_79732.jpg"  >
+                            <h3><a href="/peliculas/amundsen-20162.html" title="Amundsen">Amundsen</a></h3>
+                            <p class="generos">Aventuras, drama</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li class="first"    data-lazy-image="/carteles/255/a_dog_called_money_79557.jpg"  >
+                            <h3><a href="/peliculas/pj-harvey-a-dog-called-money-20478.html" title="PJ Harvey: A Dog Called Money">PJ Harvey: A Dog Called Money</a></h3>
+                            <p class="generos">Documental</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/el_cerro_de_los_dioses_80232.jpg"  >
+                            <h3><a href="/peliculas/el-cerro-de-los-dioses-20479.html" title="El cerro de los dioses">El cerro de los dioses</a></h3>
+                            <p class="generos">Thriller</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/cuando_fuimos_brujas_80233.jpg"  >
+                            <h3><a href="/peliculas/the-juniper-tree-20480.html" title="Cuando fuimos brujas">Cuando fuimos brujas</a></h3>
+                            <p class="generos">Drama, fantasía</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/reevolution_79974.jpg"  >
+                            <h3><a href="/peliculas/reevolution-20541.html" title="Reevolution">Reevolution</a></h3>
+                            <p class="generos">Acción, crimen, d...</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/la_leyenda_de_klaus_80293.jpg"  >
+                            <h3><a href="/peliculas/la-leyenda-de-klaus-20617.html" title="Klaus">Klaus</a></h3>
+                            <p class="generos">Animación, aventu...</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li class="first"    data-lazy-image="/carteles/255/el_hoyo_80051.jpg"  >
+                            <h3><a href="/peliculas/el-hoyo-20724.html" title="El hoyo">El hoyo</a></h3>
+                            <p class="generos">Thriller</p>
+                            <p>Noviembre 08, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/el_irlandes_79793.jpg"  >
+                            <h3><a href="/peliculas/i-heard-you-paint-houses-2284.html" title="El irlandés">El irlandés</a></h3>
+                            <p class="generos">Biografía, crimen...</p>
+                            <p>Noviembre 15, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/animales_en_apuros_80235.jpg"  data-puntuacion="4,2">
+                            <h3><a href="/peliculas/dva-khvosta-18576.html" title="Animales en apuros">Animales en apuros</a></h3>
+                            <p class="generos">Animación, aventu...</p>
+                            <p>Noviembre 15, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/madre_80129.jpg"  >
+                            <h3><a href="/peliculas/madre-18869.html" title="Madre">Madre</a></h3>
+                            <p class="generos">Drama, thriller</p>
+                            <p>Noviembre 15, 2019</p>
+                        </li>
+                                        <li     data-lazy-image="/carteles/255/ford_v_ferrari_79288.jpg"  >
+                            <h3><a href="/peliculas/ford-v--ferrari-19305.html" title="Le Mans '66">Le Mans '66</a></h3>
+                            <p class="generos">Drama</p>
+                            <p>Noviembre 15, 2019</p>
+                        </li>
+                
+            </ul>
+
+            <div  id="paginacion">
+    
+    
+    <ol class=" ">
+            <li class="current active first  page-1 pos1"><a href="/estrenos/">1</a></li>
+            <li class="page-2 pos2"><a href="/estrenos/2/">2</a></li>
+            <li class="page-3 pos3"><a href="/estrenos/3/">3</a></li>
+            <li class="page-4 pos4"><a href="/estrenos/4/">4</a></li>
+            <li class="page-5 pos5"><a href="/estrenos/5/">5</a></li>
+            <li class="page-6 pos6"><a href="/estrenos/6/">6</a></li>
+            <li class="last  page-7 pos7"><a href="/estrenos/7/">7</a></li>
+    
+    </ol>
+
+    
+    <div class="go_next"><a href="/estrenos/2/"><img width="107" height="32"  title="Siguiente" alt="Siguiente &gt;"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAAAgCAIAAAHtRSFiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABNdJREFUeNpi/PLlCwNxgImBaABV+vnzZwswyM3NXbx4MVDk9OnTQC5ENjgwEEgyEu8AgAAiVimxDmWBUK6urkCHAhnZ2dmnTp2aPHky0LlALpCBbu/Tp0+lpaVxmQcQQCR4hZwgBwZccHDwjRs38OuBOB4ZGBsYovsZDpycnBISEiBsoNeAXD4+vtjYWKBlJ06cgMQYEAADCBhMEBEgkFdQoKGvAQKIxuE4FEyE5BY0AEmluLgQ8PLlS+zhCI9QZDuAyf3Zs2fAVA0RAWYAYNQDExAwke3evRsi6O/ru3HzZny+BhoNyekQ7qdPn+CZJCAgAGgcMAEBjYarhxuHM66BGkxNTQdL6gEIIOqbOASSI12dCIxvCKO6uhqPMmCy3LBhwwA4EZi2eXl5Iey9e/dCRID5B0gC3QRJ+ZA6DugTuAJgwQopjC1gAFTrBQcDS9KpU6cClbmCAdzzaPkYWGwj52bs5TccQDI3ci6HuBg50wPzOnLuB2bOiooKZBOA2oGuAYoDCwZgjgVy165di6vGS0tJkZGVERcXJzO7QMqfuLi4qqqqdevWwQOYDmA0R1MDAARgxwxOEAaCKApiFakgFaSBHAye1DIUy9iQGiSHkCJE6zFlGPDBhyEk2SWKhxx2D6LrZPfvzDrzxrV7cRNDHPWtUR/ApaRPGZiluADM/3FsfWmZIgt+kZCpBOG0TPYO7zHFzuk4HY59/x5SYSi/VFVFzW2aRqvTpfGRYopTaV2SJMmyzBoYvarDwUwzHAmvU9YwYzWOyiLM84awzMoFgkfg6o0vJTVNU5YzrFYxzfMcd/q4Bk0IEvaXZYkIHpe99aGBcavr7tUtii9HRyKbcXTDfiKOaBX+2adMBFfWJ8InFIrZ74r787FIHxsI8hSsIfbxFaAAMo0o0Dkny2nsFArmcb/P5nq+IO53kLFb2LattU3rqr/ca34Zgf8uIh9Efd+OjwDtmTFuwkAQRTkI6RIlRS5AiSLkAzhKbwmloHFv0SJBHcVQIx8gN/AFfAEXSKSiRzlAnvylkWUDWScUIdkpVrPrWXt2dmY9f/YCsmi/w96CnrwFvQX/kAXJYMFFVlSzfBBGBbnvKaF63ukK5Jf0VtHPLfIUPgKL2vW/bljuGCVJQkYIDGggErLlxmJUzGQcbNWrrosYxMSGZsjJrQuIAUORaNo+ISxEASgzMMnmCWxgcd2oAcRo4dM05YuI0SKjWwPVVCXJhxxvBl7S1+fxGODRv+oDj9rpfZM+ulBZloPB4L6i6XRKV+MayfMcPggCeD1aLBbwWZbBR1EEv1wuNaXepYVnBB5h402sKAr7ShzHu92OEXX1qP4GkdSQSrSa6L7SzWbzMBzeXt8Eo9FpyW4+yGYKLLGxBF0Yho16NDSZTHgEfMcX8AJa9r/TQdGrqt5WRsF38FZzc7mkdY/VYoTk1xXpJfv93lEHQhg3BJzjhulqdc4oZlVojDbEplRsAzyV/DWOJEtF8q4iDKr1EKEH7yAU7wS4ShGai/mOlTGMFOZIqp5BdDOFowBtFdEqeLiskUPwfbvFdgcR+hkwCUuSjVheWyeUns/nLMDuL/FHDiPwvo4hGc7lSJJk3d0cp9Rfflrb34jq2HP9beqBP5vN3K1wceRxsc+ovQW9Bf87fQL2G4GF24noOQAAAABJRU5ErkJggg==" /></a></div>
+    
+    
+
+
+</div>
+
+        </section>
+
+
+
+            </main>
+        </div>
+    
+    <div class='wrapper cinema2' data-lazy-image='/commons/images/backgrounds/cinema2.jpg'>
+
+    <section class="widget superestrenos highlight">
+        <h2>Próximos super estrenos</h2>
+
+
+        <div class=" dragscroll">
+        <div class="superestrenos_list">
+                
+                    <article  class="dragend-page">
+                        <a href="/peliculas/terminator-genisys-2-10114.html" title="Terminator: Destino oscuro"><img width="172" height="258" src="/commons/images/loading_fijo.gif" data-lazy-image="/carteles/255/terminator._destino_oscuro_78915.jpg" alt="Cartel de Terminator: Destino oscuro"/></a>
+                        <h3><a href="/peliculas/terminator-genisys-2-10114.html" title="Terminator: Destino oscuro">Terminator: Destino oscuro</a></h3>
+                        <strong>Octubre 31, 2019</strong>
+                    </article>
+
+                
+                    <article  class="dragend-page">
+                        <a href="/peliculas/doctor-sleep-18288.html" title="Doctor Sueño"><img width="172" height="258" src="/commons/images/loading_fijo.gif" data-lazy-image="/carteles/255/doctor_sueno_80131.jpg" alt="Cartel de Doctor Sueño"/></a>
+                        <h3><a href="/peliculas/doctor-sleep-18288.html" title="Doctor Sueño">Doctor Sueño</a></h3>
+                        <strong>Octubre 31, 2019</strong>
+                    </article>
+
+                
+                    <article  class="dragend-page">
+                        <a href="/peliculas/shaun-the-sheep-movie-farmageddon-18901.html" title="La oveja Shaun, la película: Granjaguedon"><img width="172" height="258" src="/commons/images/loading_fijo.gif" data-lazy-image="/carteles/255/la_oveja_shaun_la_pelicula_granjaguedon_77725.jpg" alt="Cartel de La oveja Shaun, la película: Granjaguedon"/></a>
+                        <h3><a href="/peliculas/shaun-the-sheep-movie-farmageddon-18901.html" title="La oveja Shaun, la película: Granjaguedon">La oveja Shaun, la película: Granjaguedon</a></h3>
+                        <strong>Octubre 31, 2019</strong>
+                    </article>
+
+                
+                    <article  class="dragend-page">
+                        <a href="/peliculas/Hustlers-19641.html" title="Estafadoras de Wall Street"><img width="172" height="258" src="/commons/images/loading_fijo.gif" data-lazy-image="/carteles/255/estafadoras_de_wall_street_79129.jpg" alt="Cartel de Estafadoras de Wall Street"/></a>
+                        <h3><a href="/peliculas/Hustlers-19641.html" title="Estafadoras de Wall Street">Estafadoras de Wall Street</a></h3>
+                        <strong>Noviembre 08, 2019</strong>
+                    </article>
+
+                
+                    <article  class="dragend-page">
+                        <a href="/peliculas/ford-v--ferrari-19305.html" title="Le Mans '66"><img width="172" height="258" src="/commons/images/loading_fijo.gif" data-lazy-image="/carteles/255/ford_v_ferrari_79288.jpg" alt="Cartel de Le Mans '66"/></a>
+                        <h3><a href="/peliculas/ford-v--ferrari-19305.html" title="Le Mans '66">Le Mans '66</a></h3>
+                        <strong>Noviembre 15, 2019</strong>
+                    </article>
+
+                
+        </div>
+        </div>
+
+    </section>
+
+</div>
+
+
+<div class='wrapper light contenido'>
+<section>
+    <article  class="widget_destacado informativo" >
+
+     <a href="/noticias/tv-series/de-los-creadores-de-sherlock-primer-trailer-del-nuevo-dracula-de-la-bbc-36799.html"><img data-lazy-image="/commons/data/portada/3993.jpg" src="/commons/images/loading_fijo.gif" width="650" height="401" alt="imagen de destacado" /></a>
+    <a href="/noticias/tv-series/" class="image-tag">TV | Series</a>
+
+    <h2><a href="/noticias/tv-series/de-los-creadores-de-sherlock-primer-trailer-del-nuevo-dracula-de-la-bbc-36799.html">De los creadores de 'Sherlock': Primer tráiler del nuevo 'Drácula' de la BBC</a></h2>
+    <div class="content">
+        <p>Después de la de 'La guerra de los mundos', la BBC tiene entre manos la adaptación de otro famoso relato clásico publicado en el mismo año, 1897.</p>
+    </div>
+    <footer>
+           <p><a href="/foro/index.php/?action=profile;u=2413" rel="author" itemprop="author" >wanchope</a> Hace 23 horas</p>
+    </footer>
+</article>
+
+    <div class="aside">
+        <div class="widget"><script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/195078209/elseptimoarte.net/resto', [[300, 600], [300, 250]]).display();
+</script>
+</div>
+        <article class="widget ranking_taquillas"  itemscope itemtype="http://schema.org/ItemList">
+    <header>
+        <h2 itemprop="name">Ranking de taquilla</h2>
+        <h3>
+            <span>Ranking & Título</span>
+            <span>Finde</span>
+            <span>Sem.</span>
+        </h3>
+    </header>
+    <meta itemprop="itemListOrder" content="Ascending" />
+    <ol>
+                    <li  itemprop="itemListElement"  itemscope itemtype="http://schema.org/ListItem"><a href="/peliculas/joker-18519.html"  itemprop="url" title="Joker"><strong  itemprop="name">Joker</strong></a><span>&euro;2,1M</span><span>&nbsp;4</span></li>
+                    <li  itemprop="itemListElement"  itemscope itemtype="http://schema.org/ListItem"><a href="/peliculas/maleficent-sequel-11794.html"  itemprop="url" title="Maléfica: Maestra del mal"><strong  itemprop="name">Maléfica: Maestra del mal</strong></a><span>&euro;1,7M</span><span>&nbsp;2</span></li>
+                    <li  itemprop="itemListElement"  itemscope itemtype="http://schema.org/ListItem"><a href="/peliculas/la-familia-adams-4452.html"  itemprop="url" title="La familia Addams"><strong  itemprop="name">La familia Addams</strong></a><span>&euro;1,2M</span><span>&nbsp;1</span></li>
+                    <li  itemprop="itemListElement"  itemscope itemtype="http://schema.org/ListItem"><a href="/peliculas/mientras-dure-la-guerra-18287.html"  itemprop="url" title="Mientras dure la guerra"><strong  itemprop="name">Mientras dure la guerra</strong></a><span>&euro;0,6M</span><span>&nbsp;5</span></li>
+                    <li  itemprop="itemListElement"  itemscope itemtype="http://schema.org/ListItem"><a href="/peliculas/el-silencio-de-la-ciudad-blanca-18423.html"  itemprop="url" title="El silencio de la ciudad blanca"><strong  itemprop="name">El silencio de la ciudad blanca</strong></a><span>&euro;0,6M</span><span>&nbsp;1</span></li>
+        
+    </ol>
+</article>
+    </div>
+</section>
+</div>
+
+
+            <div class='wrapper pie cinema1'>
+           <footer class='principal'><div id="footer-links">
+    <section>
+        <h1>Portal</h1>
+        <ul>
+            <li><a title="Noticias de cine" href="/noticias/">Noticias de cine</a></li>
+            <li><a title="Estrenos de cine" href="/noticias/estrenos/">Estrenos</a></li>
+            <li><a title="Películas" href="/peliculas/">Películas</a></li>
+            <li><a title="Fotos e imágenes" href="/peliculas/imagenes/">Fotos e imágenes</a></li>
+            <li><a title="Tráilers y vídeos" href="/peliculas/trailers/">Tráilers y vídeos</a></li>
+            <li><a title="Críticas" href="/foro/index.php/board,4.0.html">Críticas</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h1>Secciones</h1>
+        <ul>
+            <li><a title="El Séptimo Arte" href="/">Portal</a></li>
+            <li><a title="Foro de cine" href="/foro/">Foro de cine</a></li>
+            <li><a title="El Séptimo Arte México" href="/mexico/">México</a></li>
+            <li><a title="Wiki de cine" href="http://wikicine.elseptimoarte.net/">Wikicine</a></li>
+            <li><a title="Servicios de cine gratuitos" href="/servicios/">Servicios</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h1>Destacados</h1>
+        <ul>
+            <li><a title="Copa de cine" href="/noticias/copa-de-cine/">Copa de cine</a></li>
+            <li><a title="Películas de comedia" href="/peliculas/generos/comedia/">Películas de risa</a></li>
+            <li><a title="Cartelera de cine" href="/estrenos/">Cartelera</a></li>
+            <li><a title="Estrenos DVD" href="/estrenos/dvd-alquiler/">Estrenos DVD</a></li>
+            <li><a title="Películas 2020" href="/peliculas/2020">Películas 2020</a></li>
+            <li><a title="Películas de acción" href="/peliculas/generos/acción/">Películas de acción</a></li>
+        </ul>
+    </section>
+
+
+
+    <section>
+        <h1>Más información</h1>
+        <ul>
+            <li><a href="/contacto/">Contacto</a></li>
+            <li><a href="/sitemap.php">Sitemap</a></li>
+            <li><a href="/cookies/">Política de cookies</a></li>
+        </ul>
+    </section>
+</div><div id="footer-extra"  class="logo">
+    <p>
+    <strong>El Séptimo Arte  &copy; 2005 - 2019</strong>
+    <em>www.elseptimoarte.net. Todos los derechos reservados</em>
+</p>
+    <div class="redes-sociales">
+    <a href="https://twitter.com/el7arte" target="blank" title="S&iacute;gue a el7arte en Twitter"><img width="19" height="16"  alt="Twitter"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAMAAADDGrRQAAAAhFBMVEVMaXH///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8NoezaAAAAK3RSTlMA9n0+IFj7BgEM7FEK8J9rKYJ680SH1c03ddpB3y4nZL2i4umR4TmzRhZgRkx8oAAAAI1JREFUeF5VzucOgzAMhdHLTCh709JN933/9yuKqULPL/uTLBkrfuwpQAMIIFRG8hpUN6BgpU1raUy5jwf59DFLKUogcsgwa5KE4oK5bc0Y7ilcAMPkcO0EQN3554iZl3JlB8Pd0MqllbQ6JU27NRfOAT+v5boeYTSftqfoC4ho28nT50DDeo9xPER2/wLCihqtwIricgAAAABJRU5ErkJggg=="  /></a>
+
+    <a href="https://www.facebook.com/elseptimoarte.net" target="_blank" title="S&iacute;gue a la página Facebook de elseptimoarte.net"><img width="10" height="18" alt="Facebook" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAMAAABVab95AAAASFBMVEVMaXH///////////////////////////////////////////////////////////////////////////////////////////8Pr8ZAAAAAF3RSTlMAGm7wCvqAEJCyMIhYl92gPB/B7+BGURuOf2kAAABISURBVHhetcvJDYBADENRDySEsO/pv1McCSEa4J+eDwbrNg09LqrUkZ1kldijkD21QMBa0hJiI7kaRxNP8lKBwSfCff7cfuMNNnQHnOiD7OgAAAAASUVORK5CYII=" /></a>
+
+    <a href="/rss.php" target="_blank" title="Mantente al d&iacute;a con nuestro RSS"><img width="19" height="18" alt="RSS" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAMAAACO0hVbAAAAq1BMVEVMaXH///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9Hbg9cAAAAOHRSTlMAzMHJAUAD/vpw1UiskAgpO2neZoAPM74WhVO76yGw9E/w+Z0mWG+2oWAg2f0r4jCUpt9FdezENxjCq/EAAADBSURBVHheVY9ZcoMwEAUbbFBszO54N9g4e7xl1/1PlhmUokj/PKlrpp7EyHx5h+cFfUZWOT5G/51jMOvcz/Tw3bTSLEM6SHaVUTu/pc9prdJzsiz8OAqB/Eakn3Qd51xssJdT3OsdbEVqVwB8TMat3FyglBy78pe4UbkFLbrHkb7qekhqJHCwKESWUEncQTT3VzA7WlsM2Yl7INVnZfCkQSK3CbkVphC48KSZTN0KwkYneLO2hs99vRwC7/IzuMrELwG1IOboH/vpAAAAAElFTkSuQmCC" /></a>
+</div>
+</div></footer>
+        </div>
+    
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-909020-1', 'elseptimoarte.net');
+  ga('send', 'pageview');
+
+</script>
+<!-- Quantcast Choice. Consent Manager Tag -->
+<script type="text/javascript" async=true>
+    var elem = document.createElement('script');
+    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    (function() {
+    var gdprAppliesGlobally = false;
+    function addFrame() {
+        if (!window.frames['__cmpLocator']) {
+        if (document.body) {
+            var body = document.body,
+                iframe = document.createElement('iframe');
+            iframe.style = 'display:none';
+            iframe.name = '__cmpLocator';
+            body.appendChild(iframe);
+        } else {
+            // In the case where this stub is located in the head,
+            // this allows us to inject the iframe more quickly than
+            // relying on DOMContentLoaded or other events.
+            setTimeout(addFrame, 5);
+        }
+        }
+    }
+    addFrame();
+    function cmpMsgHandler(event) {
+        var msgIsString = typeof event.data === "string";
+        var json;
+        if(msgIsString) {
+        json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+        } else {
+        json = event.data;
+        }
+        if (json.__cmpCall) {
+        var i = json.__cmpCall;
+        window.__cmp(i.command, i.parameter, function(retValue, success) {
+            var returnMsg = {"__cmpReturn": {
+            "returnValue": retValue,
+            "success": success,
+            "callId": i.callId
+            }};
+            event.source.postMessage(msgIsString ?
+            JSON.stringify(returnMsg) : returnMsg, '*');
+        });
+        }
+    }
+    window.__cmp = function (c) {
+        var b = arguments;
+        if (!b.length) {
+        return __cmp.a;
+        }
+        else if (b[0] === 'ping') {
+        b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+            "cmpLoaded": false}, true);
+        } else if (c == '__cmp')
+        return false;
+        else {
+        if (typeof __cmp.a === 'undefined') {
+            __cmp.a = [];
+        }
+        __cmp.a.push([].slice.apply(b));
+        }
+    }
+    window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+    window.__cmp.msgHandler = cmpMsgHandler;
+    if (window.addEventListener) {
+        window.addEventListener('message', cmpMsgHandler, false);
+    }
+    else {
+        window.attachEvent('onmessage', cmpMsgHandler);
+    }
+    })();
+    window.__cmp('init', {
+    		'Language': 'es',
+		'Initial Screen Title Text': 'Tu privacidad es importante para nosotros',
+		'Initial Screen Reject Button Text': 'No acepto',
+		'Initial Screen Accept Button Text': 'Acepto',
+		'Initial Screen Purpose Link Text': 'Más información',
+		'Purpose Screen Title Text': 'Tu privacidad es importante para nosotros',
+		'Purpose Screen Body Text': 'Puedes configurar tus preferencias y elegir como quieres que tus datos sean utilizados para los siguientes propósitos. Puedes elegir configurar tus preferencias sólo con nosotros independientemente del resto de nuestros partners. Cada propósito tiene una descripción para que puedas saber como nosotros y nuestros partners utilizamos tus datos',
+		'Purpose Screen Vendor Link Text': 'Ver lista completa de partners',
+		'Purpose Screen Cancel Button Text': 'Cancelar',
+		'Purpose Screen Save and Exit Button Text': 'Guardar y salir',
+		'Vendor Screen Title Text': 'Tu privacidad es importante para nosotros',
+		'Vendor Screen Body Text': 'Puedes dar tu consentimiento de manera individual a cada partner. Ver la lista de todos los propósitos para los cuales utilizan tus datos para tener más información. En algunos casos, las empresas pueden revelar que usan tus datos sin pedir tu consentimiento, en función de intereses legítimos. Puedes hacer click en su política de privacidad para obtener más información al respecto o para rechazarlo.',
+		'Vendor Screen Accept All Button Text': 'Aceptar todo',
+		'Vendor Screen Reject All Button Text': 'Rechazar todo',
+		'Vendor Screen Purposes Link Text': 'Ver porpósitos',
+		'Vendor Screen Cancel Button Text': 'Cancelar',
+		'Vendor Screen Save and Exit Button Text': 'Guardar y salir',
+		'Initial Screen Body Text': 'Tanto nuestros partners como nosotros utilizamos cookies en nuestro sitio web para personalizar contenido y publicidad, proporcionar funcionalidades a las redes sociales, o analizar nuestro tráfico. Haciendo click consientes el uso de esta tecnologia en nuestra web. Puedes cambiar de opinión y personalizar tu consentimiento siempre que quieras volviendo a esta sección.',
+		'Initial Screen Body Text Option': 1,
+		'Publisher Name': 'El Séptimo Arte',
+		'Publisher Logo': 'https://www.elseptimoarte.net/commons/images/elseptimoarte.png',
+		'Min Days Between UI Displays': 90,
+		'Publisher Purpose IDs': [1,2,3,4,5],
+		'Consent Scope': 'service',
+		'Post Consent Page': 'https://www.elseptimoarte.net/cookies/',
+		'No Option': true,
+		'Display Persistent Consent Link': false,
+    });
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag -->
+    <style>
+    </style></body></html>

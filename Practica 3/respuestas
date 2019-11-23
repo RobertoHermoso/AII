@@ -1,0 +1,2891 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="es" id="vbulletin_html">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="https://foros.derecho.com" />
+<base href="https://foros.derecho.com/" /><!--[if IE]></base><![endif]-->
+<meta name="robots"   content="all" />
+<meta name="expires" content="never" />
+<meta name="distribution"  content="global" />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" type="text/plain" />
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" type="text/plain" />
+<meta name="DC.creator" content="foros.derecho.com" />
+
+<meta name="generator" content="vBulletin 4.2.0" />
+<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text" />
+<meta name="DC.format" content="text/html" />
+<meta name="DC.language" scheme="DCTERMS.URI" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="foros.derecho.com" />
+
+
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/main-rollup.css?d=1541492104" />
+        
+
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/popupmenu-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/vbulletin-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/vbulletin-chrome-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/vbulletin-formcontrols-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/editor-ie.css?d=1541492104" />
+	<![endif]-->
+
+
+<link href="https://www.derecho.com/_css/estilos.css" rel="stylesheet" type="text/css">
+<link href="https://www.derecho.com/_css/thickbox.css" rel="stylesheet" type="text/css">
+<link media="print" href="https://www.derecho.com/_css/styles_print.css" rel="stylesheet" type="text/css"> 
+<link href="https://purl.org/metadata/dublin_core_elements" rel="schema.dc">
+<link type="text/css" rel="stylesheet" href="/var/generador/styles_header_footer.css" />
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=420"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=420"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=41b597c5d7fca85019a56f518ea773fc&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "420";
+	var BBURL = "https://foros.derecho.com";
+	var LOGGEDIN = 0 > 0 ? true : false;
+// -->
+
+</script>
+
+
+<script type="text/javascript" src="https://foros.derecho.com/clientscript/vbulletin-core.js?v=420"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script src="/var/generador/modernizr.js" type="text/javascript"></script>
+<script type="text/javascript" src="/var/generador/toolsDerecho.js"><\/script>
+
+
+
+
+	<script type="text/javascript" src="https://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+
+<script type="text/javascript" src="https://foros.derecho.com/clientscript/vbulletin_facebook.js?v=420"></script>
+
+<script type="text/javascript">
+	<!--
+		var FB_APIKEY = "";
+		var FB_RECEIVER = ""
+	// -->
+	</script>
+
+
+<meta name="title" content="ACUERDO CONTRARIO A LA LPH (ASCENSOR)"/>
+<meta property="og:title" content="ACUERDO CONTRARIO A LA LPH (ASCENSOR)"/>
+<meta name="DC.title" lang="es_ES" content="ACUERDO CONTRARIO A LA LPH (ASCENSOR)" />
+<meta property="og:title" content="ACUERDO CONTRARIO A LA LPH (ASCENSOR)" />
+
+<meta name="DC.subject" lang="es_ES" content="Se acuerda por mayoría simple en segunda convocatoria a Junta instalar un ascensor. La mayoría se consigue por 2 votos de diferencia, los 2 votos de unos propietarios de la planta baja, que a cambio quedan exentos de participar en gastos. El secretário administrador dice que lo normal es pagar según altura, cuando la LPH dice que se paga según cuota de participación, el reparto al final no es aprobado por falta de unanimidad y en el Acta sólo figura como aprobada la instalación del ascensor," />
+<meta name="DC.description" lang="es-ES" content="Se acuerda por mayoría simple en segunda convocatoria a Junta instalar un ascensor. La mayoría se consigue por 2 votos de diferencia, los 2 votos de unos propietarios de la planta baja, que a cambio quedan exentos de participar en gastos. El secretário administrador dice que lo normal es pagar según altura, cuando la LPH dice que se paga según cuota de participación, el reparto al final no es aprobado por falta de unanimidad y en el Acta sólo figura como aprobada la instalación del ascensor," />
+<meta property="og:description" content="Se acuerda por mayoría simple en segunda convocatoria a Junta instalar un ascensor. La mayoría se consigue por 2 votos de diferencia, los 2 votos de unos propietarios de la planta baja, que a cambio quedan exentos de participar en gastos. El secretário administrador dice que lo normal es pagar según altura, cuando la LPH dice que se paga según cuota de participación, el reparto al final no es aprobado por falta de unanimidad y en el Acta sólo figura como aprobada la instalación del ascensor, />
+<link rel="canonical" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc" />
+
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="https://foros.derecho.com/tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc" />
+
+<meta property="og:url" content="https://foros.derecho.com/tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc" />
+
+
+
+	
+	<meta name="description" content="Se acuerda por mayoría simple en segunda convocatoria a Junta instalar un ascensor. La mayoría se consigue por 2 votos de diferencia, los 2 votos de unos propietarios de la planta baja, que a cambio quedan exentos de participar en gastos. El secretário administrador dice que lo normal es pagar según altura, cuando la LPH dice que se paga según cuota de participación, el reparto al final no es aprobado por falta de unanimidad y en el Acta sólo figura como aprobada la instalación del ascensor," />
+
+	<title> ACUERDO CONTRARIO A LA LPH (ASCENSOR) - Foros de derecho.com</title>
+	<link rel="canonical" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/showthread-rollup.css?d=1541492104" />
+	
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/toolsmenu-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/postlist-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/showthread-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/postbit-ie.css?d=1541492104" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/poll-ie.css?d=1541492104" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/additional.css?d=1541492104" />
+
+</head>
+
+<body>
+
+<!--nose que es esto pero es debeza derecho -->
+<div id="bderecha">
+<!-- DER-Foros-Superior-IZQ-120x600 -->
+<div id='div-gpt-ad-1331030587669-0' style='width:120px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1331030587669-0'); });
+</script>
+</div>
+</div>
+
+<div id="wrapper">
+<div id="intro">
+<input id="origen" name="origen" value="" type="hidden">
+<!-- inicio cabecera derecho.com --><noscript>
+    <div class="noscript">
+        <div class="noscript-inner">
+            <p><strong>JavaScript parece desactivado en su navegador.</strong></p>
+            <p>Debería tener el JavaScript activado en su navegador para utilizar la funcionalidad de este website.</p>
+        </div>
+    </div>
+</noscript>
+
+
+<!--  -->
+
+   <script type="text/javascript">
+		var sel = null;
+		function selec(obj,texto,op) {
+		  if (sel!=null) sel.className = '';
+		  obj.className = 'active';
+		  sel=obj;
+		  var objetoA = document.getElementById("searchSite"); 
+		  objetoA.innerHTML = texto;
+		  document.getElementById("buscador_opciones").value=op;   
+		}
+	</script>
+	
+	<script type='text/javascript'>
+	var _vwo_code=(function(){
+	var account_id=18426,
+	settings_tolerance=2000,
+	library_tolerance=2500,
+	use_existing_jquery=false,
+	
+	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+	</script>
+		
+
+<!--  -->
+
+<div class="hide" id="d-policy-disclaimer" style="background: #00A5B6;color:#FFFFFF;height: 18px;">
+	<div style="margin: 0 auto; width: 919px; font-size:11px; padding-top: 3px;">Al usar este sitio acepta el uso de cookies propias y de terceros para análisis, contenido personalizado y publicidad.
+        	<span style="float: right;margin-left: 25px;">
+               <a id="cerrar" title="Cerrar mensaje" style="color:#FFFFFF;cursor:pointer">Cerrar</a>
+            </span>
+            <span style="float: right;">
+               <a style="color:#FFFFFF;"  title="Más información" href="https://www.derecho.com/privacidad/">Más información</a>
+            </span>
+           
+     </div>
+</div> 
+
+
+
+
+<script type='text/javascript'>
+var checkdCookiesPolicyCookie = function(){
+var dcplyName = "DCKPLCY";
+if(!existsCookie(dcplyName)){
+	$("#d-policy-disclaimer").show();
+}else{
+	$("#d-policy-disclaimer").hide();
+}
+}
+
+checkdCookiesPolicyCookie();
+
+
+ $('a').live('click', function(){
+       var dcplyName = "DCKPLCY";
+       var dcplyExpireDate = new Date();
+	   var expireMonths = 1;
+	   var action = 'click';
+	   dcplyExpireDate.setMonth(dcplyExpireDate.getMonth() + expireMonths);
+       setCookieValue(dcplyName, action, dcplyExpireDate); 
+       $("#d-policy-disclaimer").hide(); 
+  });
+ 
+ 
+ $(window).scroll(function(){
+       var dcplyName = "DCKPLCY";
+       var dcplyExpireDate = new Date();
+	   var expireMonths = 1;
+	   var action = 'scroll';
+	   dcplyExpireDate.setMonth(dcplyExpireDate.getMonth() + expireMonths);
+       setCookieValue(dcplyName, action, dcplyExpireDate);  
+       $("#d-policy-disclaimer").hide();
+  });
+ 
+
+
+
+
+$('#cerrar').click(function(){
+ $('#d-policy-disclaimer').hide();
+ return false; 
+ });
+</script> 
+<!-- inicio cabecera derecho.com --><noscript>
+    <div class="noscript">
+        <div class="noscript-inner">
+            <p><strong>JavaScript parece desactivado en su navegador.</strong></p>
+            <p>Debería tener el JavaScript activado en su navegador para utilizar la funcionalidad de este website.</p>
+        </div>
+    </div>
+</noscript>
+<header id="header">
+	<nav>
+		<a name="home"></a>
+		<ul id="menu">
+			<li>
+				<a title="Derecho.com" href="https://www.derecho.com/" id="inicio">Home</a>
+			</li>
+
+			<li class="hassubmenu">
+				<a title="Empresas y Pymes" href="https://tienda.derecho.com/tramites-online">Empresas y Pymes</a>
+				<div class="submenu">
+					<a class="specP" title="Registro de la Propiedad" href="https://registropropiedad.derecho.com/">Registro de la Propiedad</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/nota-simple.html" title="Notas simples">Notas simples</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Propiedades de alguien">Propiedades de alguien</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/nota-negativa-propiedades.html" title="Nota negativa de propiedades">Nota negativa de propiedades</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Quién es el propietario">Quién es el propietario</a>
+					<a class="spec" href="https://www.derecho.com/registro-propiedad/valoracion-de-inmuebles" title="Valoración de Inmuebles">Valoración de inmuebles</a>
+					<a class="spec" href="https://www.derecho.com/registro-propiedad/cancelacion-de-hipoteca.html" title="Cancelación de hipoteca">Cancelación de hipoteca</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/localizacion-propiedades.html" title="Localización de propiedades">Localización de propiedades</a>
+
+
+					<a class="specP" href="https://www.derecho.com/registro-marcas.html" title="Registro de marcas">Registro de marcas</a>
+					<a class="spec" href="https://www.derecho.com/registro-marcas/marca-nacional.html" title="Marca nacional">Marca nacional</a>
+					<a class="spec" href="https://www.derecho.com/registro-marcas/marca-comunitaria.html" title="Marca comunitaria">Marca comunitaria</a>
+					<a class="spec" href="https://www.derecho.com/registro-marcas/informe-previo-de-marca.html" title="Informe previo de marca">Informe previo de marca</a>
+					<a class="spec" href="https://www.derecho.com/registro-marcas/renovacion-de-marca.html" title="Renovación de marca">Renovación de marca</a>
+
+					<a class="specP" href="https://registromercantil.derecho.com/" title="Registro Mercantil">Registro Mercantil</a>
+					<a class="spec" href="https://tienda.derecho.com/certificado-registro-mercantil.html" title="Certificado del Registro Mercantil">Certificado del Registro Mercantil</a>
+					<a class="spec" href="https://tienda.derecho.com/nota-simple-registro-mercantil.html" title="Nota Simple del Registro Mercantil">Nota Simple del Registro Mercantil</a>
+					<a class="spec" href="https://tienda.derecho.com/cuentas-anuales.html" title="Cuentas anuales">Cuentas anuales</a>
+					<a class="spec" href="https://tienda.derecho.com/informe-mercantil-e-incidencias.html" title="Informe mercantil e incidencias">Informe mercantil e incidencias</a>
+
+					<a class="specP" href="https://www.derecho.com/dgt-direccion-general-trafico.html" title="DGT - Dirección General de Tráfico">DGT - Dirección General de Tráfico</a>								
+					<a class="spec" href="https://www.derecho.com/dgt/informe-de-vehiculo-por-matricula.html" title="Informe de vehículo por matrícula">Informe de vehículo por matrícula</a>
+					
+					<a class="specP" href="https://www.derecho.com/proteccion-de-datos.html" title="Protección de datos personales">Protección de datos personales</a>
+					<a class="spec" href="https://www.derecho.com/proteccion-datos/adaptacion-lopd.html" title="Adaptación LOPD">Adaptación LOPD</a>
+					<a class="spec" href="https://www.derecho.com/proteccion-datos/auditoria-lopd.html" title="Auditoría LOPD">Auditoría LOPD</a>
+					<a class="spec" href="https://www.derecho.com/proteccion-datos/asesoramiento-juridico-recurrente.html" title="Asesoramiento jurídico recurrente">Asesoramiento jurídico recurrente</a>
+					<a class="spec" href="https://www.derecho.com/proteccion-datos/asistencia-a-inspecciones.html" title="Asistencia a inspecciones">Asistencia a inspecciones</a>
+
+					<a class="specP" href="https://www.derecho.com/boe/suscriber" title="Suscripciones">Suscripciones</a>
+					
+					<a class="spec" href="https://www.derecho.com/boe/suscriber" title="Boletín Oficial del Estado">Boletín Oficial del Estado</a>
+					
+
+					<a class="specP" href="https://www.derecho.com/otros-servicios.html" title="Otros Servicios">Otros servicios</a>
+					<a class="spec" href="https://www.derecho.com/contratos/" title="Modelos de contratos">Modelos de contratos</a>
+					<a class="spec" href="https://www.derecho.com/otros-servicios/legalizacion-de-sorteos-o-promociones.html" title="Legalización de sorteos o promociones">Legalización de sorteos o promociones</a>
+					<a class="spec" href="https://www.derecho.com/otros-servicios/auditoria-legal-de-pagina-web.html" title="Auditoría legal de página web">Auditoría legal de página web</a>
+					<a class="spec" href="https://www.derecho.com/otros-servicios/avisos-legales-de-pagina-web.html" title="Avisos legales de página web">Avisos legales de página web</a>
+
+				</div>
+			</li>
+
+			<li class="hassubmenu">
+				<a href="https://www.derecho.com/particulares-y-familias.html" title="Particulares y familias">Particulares y familias</a>
+				<div class="submenu">
+					<a class="specP" href="https://registropropiedad.derecho.com/tienda/" title="Registro de la Propiedad">Registro de la Propiedad</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/nota-simple.html" title="Notas simples">Notas simples</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Propiedades de alguien">Propiedades de alguien</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/nota-negativa-propiedades.html" title="Nota negativa de propiedades">Nota negativa de propiedades</a>
+					<a class="spec" href="https://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Quién es el propietario">Quién es el propietario</a>
+					<a class="spec" href="https://www.derecho.com/registro-propiedad/valoracion-de-inmuebles" title="Valoración de Inmuebles">Valoración de inmuebles</a>
+					<a class="spec" href="https://www.derecho.com/registro-propiedad/cancelacion-de-hipoteca.html" title="Cancelación de hipoteca">Cancelación de hipoteca</a>
+
+					<a class="specP" href="https://www.derecho.com/dgt-direccion-general-trafico.html" title="DGT - Dirección General de Tráfico">DGT - Dirección General de Tráfico</a>
+					<a class="spec" href="https://www.derecho.com/dgt/informe-de-vehiculo-por-matricula.html" title="Informe de vehículo por matrícula">Informe de vehículo por matrícula</a>	
+
+					<a class="specP" href="https://www.derecho.com/proteccion-de-datos.html" title="Protección de datos personales">Protección de datos personales</a>
+					<a class="spec" href="https://www.derecho.com/proteccion-datos/eliminar-tu-nombre-en-una-web.html" title="Eliminar tu nombre en una web">Eliminar tu nombre en una web</a>
+					<a class="spec" href="https://www.derecho.com/proteccion-datos/ejercicio-derechos-de-proteccion-de-datos.html" title="Ejercicio derechos de protección de datos">Ejercicio derechos de protección de datos</a>
+
+					<a class="specP" href="https://www.derecho.com/testamentos.html" title="Testamentos">Testamentos</a>
+					<a class="spec" href="https://www.derecho.com/testamentos/testamento-online.html" title="Testamento online">Testamento online</a>
+					<a class="spec" href="https://www.derecho.com/registro-propiedad/que-propiedades-tenia-el-difunto.html" title="Qué propiedades tenía el difunto">Qué propiedades tenía el difunto</a>
+
+			
+
+					<a class="specP" href="https://www.derecho.com/otros-servicios.html">Otros servicios</a>
+					<a class="spec" href="https://www.derecho.com/c/" title="Conceptos jurídicos">Conceptos jurídicos</a>
+					<a class="spec" href="https://www.derecho.com/contratos/" title="Modelos de contratos">Modelos de contratos</a>
+					<a class="spec" href="https://www.derecho.com/otros-servicios/valor-catastral.html" title="Valor Catastral">Valor Catastral</a>
+				</div>
+			</li>
+
+			<li class="hassubmenu">
+				<a href="https://www.derecho.com/documentos-informacion.html" title="Documentos/Información">Documentos/Información</a>
+				<div class="submenu">
+					<a class="specP" href="https://www.derecho.com/boe" title="Boletín Oficial del Estado">BOE</a>
+					<a class="spec" href="https://www.derecho.com/boe" title="BOE">BOE de hoy</a>
+					<a class="spec" href="https://www.derecho.com/boe/calendiario" title="BOE anteriores">BOE anteriores</a>
+
+					<a class="specP" href="https://www.derecho.com/c" title="Conceptos jurídicos">Conceptos jurídicos</a>
+					<a class="spec" href="https://www.derecho.com/c/" title="Conceptos jurídicos">Conceptos jurídicos</a>
+
+					<a class="specP" href="https://www.derecho.com/contratos/" title="Contratos">Contratos</a>
+					<a class="spec" href="https://tienda.derecho.com/contratos/civil" title="Contratos civiles">Contratos civiles</a>
+					<a class="spec" href="https://tienda.derecho.com/contratos/laboral" title="Contratos laborales">Contratos laborales</a>
+					<a class="spec" href="https://tienda.derecho.com/contratos/mercantil" title="Contratos mercantiles">Contratos mercantiles</a>
+					<a class="spec" href="https://tienda.derecho.com/contratos/nuevas-tecnologias" title="Contratos nuevas tecnologías">Contratos nuevas tecnologías</a>
+					<a class="spec" href="https://www.derecho.com/contratos" title="Más contratos">Más contratos</a>
+
+					<a class="specP" href="https://www.derecho.com/boe/suscriber" title="Suscripciones">Suscripciones</a>
+					<a class="spec" href="https://www.derecho.com/boe/suscriber" title="Boletín Oficial del Estado">Boletín Oficial del Estado</a>
+
+					<a class="specP" href="https://www.derecho.com/articulos/" title="Artículos Jurídicos">Artículos jurídicos</a>
+					<a class="spec" href="https://www.derecho.com/articulos/" title="Artículos jurídicos">Artículos jurídicos</a>
+					
+					<a class="specP" href="https://foros.derecho.com/forum.php" title="foros">Foros</a>
+					<a class="spec" href="https://foros.derecho.com/forum.php" title="Foros de derecho">Foros de derecho</a>
+				</div>
+			</li>
+		</ul>
+		<div id="right_menu">
+			<ul id="login">
+				<li id="atencionP">
+					<a id="atencion" class="moving" title="Atención al cliente" href="https://www.derecho.com/atencion-cliente.html">Atención al cliente</a>
+				</li>
+			</ul>
+			<div id="options">
+				<ul>
+					<li><a title="Pedidos y Facturas" href="https://tienda.derecho.com/sales/order/history/">Pedidos y Facturas</a></li>
+					<li><a title="Datos de usuario" href="https://tienda.derecho.com/customer/account/" rel="nofollow">Datos de usuario</a></li>
+					<li><a title="BOE" href="https://www.derecho.com/boe" rel="nofollow">BOE</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div id="search_bar">
+		<h2 style="margin: 15px 0 15px 15px;"><a title="Derecho.com" href="https://www.derecho.com/"><img alt="Derecho.com" src="https://www.derecho.com/_img/images/derecho-com.png"/></a></h2>
+		<section id="sectionbuscador">
+		<form id="cse-search-box" class="mx" action="#" method="post">
+		<input type="hidden" name="cx" value="partner-pub-0569059116195258:5l3lqa-46f2"/>
+		<input type="hidden" name="cof" value="FORID:11"/>
+		<input type="hidden" name="siteurl" value="www.derecho.com/"/>
+		<input type="hidden" name="ie" value="utf-8" id="ie"/>
+		<input type="text" name="q" id="q" placeholder="Búsqueda personalizada"/>
+		<select id="buscador_opciones" name="buscador_opciones">
+	<option value="1">Derecho.com</option>
+	<option value="3">Tienda</option>
+	<option value="5" selected="selected">Foros</option>
+		<option value="7">Artículos</option>
+	<option value="8">Contratos</option>
+	<option value="9">Libros</option>
+			<option value="12">Boletines oficiales</option>
+</select>				<div>
+			<input type="submit" name="sa" value="Buscar" id="search_button"/>
+		</div>
+			</form>
+</section>	</div>
+</header>
+<!-- fin cabecera derecho.com -->
+	
+	<!-- elAbogado lead tag -->
+	<div id="external-lead" data-client="8qSjQ__RCfnb14KmlTYwhEgP6Wn9TIth" /> <!-- fin cabecera derecho.com -->
+</div>
+<div xml:space="preserve" id="mainContent">
+
+<link href="cpstyles/new.css" rel="stylesheet" type="text/css">
+
+
+<div id="title" class="hide">Derecho.com Productos y Servicios Jur&iacute;dicos: Contratos Libros Legislaci&oacute;n</div>
+
+
+
+<div class="homeWrapper">
+
+
+<div id="breadcrumbs">
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<!--Fin  de menu contextual  --> 
+
+<div class="above_body"> <!-- closing tag is in template navbar -->
+<div id="header1" class="floatcontainer doc_header1">
+	<!--<div><a name="top" href="forum.php?s=41b597c5d7fca85019a56f518ea773fc" class="logo-image"><img src="images/misc/vbulletin4_logo.png" alt="Foros Derecho.com - Desarrollado por vBulletin" /></a></div>-->
+	<div id="toplinks" class="toplinks">
+		
+			<ul class="nouser">
+			
+				<li><a href="register.php?s=41b597c5d7fca85019a56f518ea773fc" rel="nofollow">Registrarse</a></li>
+			
+				<li><a rel="help" href="faq.php?s=41b597c5d7fca85019a56f518ea773fc">Ayuda</a></li>
+				<li>
+			<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=420"></script>
+			<form id="navbar_loginform" action="login.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+				<fieldset id="logindetails" class="logindetails">
+					<div>
+						<div>
+					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Usuario" />
+					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Contraseña" style="display:none;" />
+					<input type="submit" class="loginbutton" tabindex="104" value="Iniciar sesión" title="Escribe tu nombre de usuario y contraseña en los campos para iniciar la sesión, o pulsa el botón 'registrarse' para crearte un perfil." accesskey="s" />
+						</div>
+					</div>
+				</fieldset>
+				<div id="remember" class="remember">
+					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> ¿Recordarme?</label>
+				</div>
+
+				<input type="hidden" name="s" value="41b597c5d7fca85019a56f518ea773fc" />
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="login" />
+				<input type="hidden" name="vb_login_md5password" />
+				<input type="hidden" name="vb_login_md5password_utf" />
+			</form>
+			<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'Usuario')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='Usuario';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+				</li>
+				
+					<li id="fb_headerbox" class="hidden">
+
+	<a id="fb_loginbtn" href="#"><img src="images/misc/facebook_login.gif" alt="La Plataforma Facebook" /></a>
+
+</li>
+
+				
+			</ul>
+		
+	</div>
+	<div class="ad_global_header">
+		
+		 
+	</div>
+	<hr />
+</div>
+<div id="navbar" class="navbar">
+	<ul id="navtabs" class="navtabs floatcontainer">
+		
+		
+	<li class="selected" id="vbtab_forum">
+		<a class="navtab" href="forum.php?s=41b597c5d7fca85019a56f518ea773fc">Foro</a>
+		
+			<ul class="floatcontainer">
+				
+					
+						
+							<li id="vbflink_bbmenu"><a href="forum.php?s=41b597c5d7fca85019a56f518ea773fc">Inicio del foro</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_newposts"><a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=getnew&contenttype=vBForum_Post">Nuevos mensajes</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_faq"><a href="faq.php?s=41b597c5d7fca85019a56f518ea773fc">Ayuda</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_calendar"><a href="calendar.php?s=41b597c5d7fca85019a56f518ea773fc">Calendario</a></li>
+						
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_community">
+							<a href="javascript://" class="popupctrl">Comunidad</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbclink_members"><a href="memberlist.php?s=41b597c5d7fca85019a56f518ea773fc">Lista de miembros</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_actions">
+							<a href="javascript://" class="popupctrl">Acciones del foro</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbalink_mfr"><a href="forumdisplay.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=markread&markreadhash=guest">Marcar foros como leídos</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_qlinks">
+							<a href="javascript://" class="popupctrl">Enlaces rápidos</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbqlink_posts"><a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=getdaily&contenttype=vBForum_Post">Mensajes de hoy</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+				
+			</ul>
+		
+	</li>
+
+		
+	</ul>
+	
+		<div id="globalsearch" class="globalsearch">
+			<form action="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+				
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+			</form>
+			<ul class="navbar_advanced_search">
+				<li><a href="search.php?s=41b597c5d7fca85019a56f518ea773fc" accesskey="4">Búsqueda avanzada</a></li>
+				
+			</ul>
+		</div>
+	
+</div>
+</div><!-- closing div for above_body -->
+
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=41b597c5d7fca85019a56f518ea773fc" accesskey="1"><img src="images/misc/navbit-home.png" alt="Inicio" /></a></li>
+		
+   
+	<li class="navbit"><a title="Foros" href="forum.php?s=41b597c5d7fca85019a56f518ea773fc">Foros</a></li>
+    
+
+   
+        <li class="navbit"><a title="Foro Derecho Civil" href="foro/5-Derecho-Civil?s=41b597c5d7fca85019a56f518ea773fc">Foro Derecho Civil</a></li>
+    
+
+   
+        <li class="navbit"><a title="Foro Derecho Inmobiliario" href="foro/34-Derecho-Inmobiliario?s=41b597c5d7fca85019a56f518ea773fc">Foro Derecho Inmobiliario</a></li>
+    
+
+		
+   
+		
+			<li class="navbit lastnavbit"><span title=" ACUERDO CONTRARIO A LA LPH (ASCENSOR)"> ACUERDO CONTRARIO A LA LPH (ASCENSOR)</span></li>
+			
+    
+
+	</ul>
+	<hr />
+</div>
+
+ 
+<script src='https://ww264.smartadserver.com/config.js?nwid=264' type="text/javascript"></script>
+<script type="text/javascript">
+    sas.setup({ domain: 'https://ww264.smartadserver.com', async: true, renderMode: 0});
+	//  renderMode define when ads must be rendered :
+	//  	- DEFAULT		(0) : as soon as ad is ready
+	//  	- READY			(1) : render ads when document is ready
+	//  - ON_DEMAND		(2) : user must call sas.callAds()
+</script>
+<script type="text/javascript">
+	sas.call("std", {
+		siteId:		14072,	// 
+		pageId:		101831,	// Página : Derecho/others
+		formatId: 	3852,	// Formato : 120x600 120x600
+		target:		''	// Segmentación
+	});
+</script>
+<noscript>
+	<a href="https://ww264.smartadserver.com/ac?jump=1&nwid=264&siteid=14072&pgname=others&fmtid=3852&visit=m&tmstp=[timestamp]&out=nonrich" target="_blank">                
+		<img src="https://ww264.smartadserver.com/ac?out=nonrich&nwid=264&siteid=14072&pgname=others&fmtid=3852&visit=m&tmstp=[timestamp]" border="0" alt="" /></a>
+</noscript>
+
+
+
+
+
+
+
+	<div id="above_postlist" class="above_postlist">
+		
+			<a href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93256&amp;noquote=1" class="newcontent_textcontrol" id="newreplylink_top"><span>+</span> Responder tema</a>
+			<img style="display:none" id="progress_newreplylink_top" src="images/misc/progress.gif" alt="" />
+		
+		<div id="pagination_top" class="pagination_top">
+		
+			<form action="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page3?s=41b597c5d7fca85019a56f518ea773fc" method="get" class="pagination popupmenu nohovermenu">
+<input type="hidden" name="t" value="36206" /><input type="hidden" name="s" value="41b597c5d7fca85019a56f518ea773fc" />
+	
+		<span><a href="javascript://" class="popupctrl">Página 1 de 9</a></span>
+		
+		
+		
+		<span class="selected"><a href="javascript://" title="Resultados 1 al 10 de 81">1</a></span><span><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page2?s=41b597c5d7fca85019a56f518ea773fc" title="Mostrar resultados del 11 al 20 de 81">2</a></span><span><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page3?s=41b597c5d7fca85019a56f518ea773fc" title="Mostrar resultados del 21 al 30 de 81">3</a></span>
+		
+		<span class="separator">...</span>
+		
+		
+		<span class="prev_next"><a rel="next" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page2?s=41b597c5d7fca85019a56f518ea773fc" title="Siguiente página - Resultados del 11 al 20 de 81"><img src="images/pagination/next-right.png" alt="Siguiente" /></a></span>
+		
+		
+		<span class="first_last"><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page9?s=41b597c5d7fca85019a56f518ea773fc" title="Última página - Resultados del 81 al 81 de 81">Último<img src="images/pagination/last-right.png" alt="Último" /></a></span>
+		
+	
+	<ul class="popupbody popuphover">
+		<li class="formsubmit jumptopage"><label>Saltar a página: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value=" Ir " /></li>
+	</ul>
+</form>
+		
+			<div id="postpagestats_above" class="postpagestats">
+				Resultados 1 al 10 de 81
+			</div>
+		</div>
+	</div>
+	<div id="pagetitle" class="pagetitle" style="width:600px; float:left">
+<div style="color: #1b3c4f; clear: both; font-size: 1.8em; font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; font: normal normal bold 19px Tahoma,Calibri,Verdana,Geneva,sans-serif;width: 70px;float:left">Tema: </div>		
+<h1 style="display:inline">
+			 <span class="threadtitle"><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc" title="ACUERDO CONTRARIO A LA LPH (ASCENSOR)">ACUERDO CONTRARIO A LA LPH (ASCENSOR)</a></span>
+		</h1>
+		<!--
+			
+<fb:like href="https://foros.derecho.com/tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)" font="tahoma" layout="standard" show_faces="false" width="260" action="like" colorscheme="light"></fb:like>
+		-->
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook_like"></a> <a class="addthis_button_tweet"></a> <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> <a class="addthis_button" style="text-decoration: none;" href="https://www.addthis.com/bookmark.php"><img style="vertical-align: text-bottom;" src="https://s7.addthis.com/static/btn/sm-plus.gif" border="0" alt="Compartir" width="16" height="16" /> Compartir</a></div>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50c9ec7b5cdbd86b&domready=1" type="text/javascript"></script>
+<!-- AddThis Button END -->
+	</div>
+
+
+
+
+
+
+	<div id="thread_controls" class="thread_controls toolsmenu">
+		<div>
+		<ul id="postlist_popups" class="postlist_popups popupgroup">
+			
+			
+			<li class="popupmenu" id="threadtools">
+				<h6><a class="popupctrl" href="javascript://">Herramientas</a></h6>
+				<ul class="popupbody popuphover">
+					<li><a href="printthread.php?s=41b597c5d7fca85019a56f518ea773fc&amp;t=36206&amp;pp=10&amp;page=1" accesskey="3" rel="nofollow">Versión para imprimir</a></li>
+					
+						<li><a href="sendmessage.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=sendtofriend&amp;t=36206" rel="nofollow">Enviar por correo&hellip;</a></li>
+					
+					<li>
+						
+							<a href="subscription.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=addsubscription&amp;t=36206" rel="nofollow">Suscribirse a este tema&hellip;</a>
+						
+					</li>
+					
+				</ul>
+			</li>
+
+			
+
+			
+				<li class="popupmenu searchthread menusearch" id="searchthread">
+					<h6><a class="popupctrl" href="javascript://">Buscar tema</a></h6>
+					<form action="search.php" method="post">
+						<ul class="popupbody popuphover">
+							<li>
+								<input type="text" name="query" class="searchbox" value="Buscar..." tabindex="13" />
+								<input type="submit" class="button" value="Buscar" tabindex="14" />
+							</li>
+							<li class="formsubmit" id="popupsearch">
+								<div class="submitoptions">&nbsp;</div>
+								<div class="advancedsearchlink"><a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;search_type=1&amp;searchthreadid=36206&amp;contenttype=vBForum_Post">Búsqueda avanzada</a></div>
+							</li>
+						</ul>
+						<input type="hidden" name="s" value="41b597c5d7fca85019a56f518ea773fc" />
+						<input type="hidden" name="securitytoken" value="guest" />
+						<input type="hidden" name="do" value="process" />
+						<input type="hidden" name="searchthreadid" value="36206" />
+						<input type="hidden" name="search_type" value="1" />
+						<input type="hidden" name="contenttype" value="vBForum_Post" />
+					</form>
+				</li>
+			
+
+			
+
+			
+				<li class="popupmenu" id="displaymodes">
+					<h6><a class="popupctrl" href="javascript://">Visualizar</a></h6>
+					<ul class="popupbody popuphover">
+						<li><label>Modo lineal</label></li>
+						<li><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;mode=hybrid"> Cambiar a modo híbrido</a></li>
+						<li><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93247&amp;mode=threaded#post93247"> Cambiar a modo hilado</a></li>
+					</ul>
+				</li>
+			
+
+			
+			</ul>
+		</div>
+	</div>
+
+<div id="postlist" class="postlist restrain">
+	
+
+	
+		<ol id="posts" class="posts" start="1">
+			
+<li class="postbitlegacy postbitim postcontainer old" id="post_93247">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">02/10/2004,&nbsp;<span class="time">14:10</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93247" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93247&amp;viewfull=1#post93247" class="postcounter">#1</a><a id="postcount93247" name="1"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" title="rosa martinez martinez está desconectado"><strong>rosa martinez martinez</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=5730&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="rosa martinez martinez está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>02 oct, 04</dd>
+					<dt>Ubicación</dt> <dd>madrid</dd>
+					
+					<dt>Mensajes</dt> <dd>51</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+							
+							<div id="ad_thread_first_post_content"><script type="text/javascript"><!--
+google_ad_client = "pub-0569059116195258";
+/* Foros pié 300x250 */
+google_ad_slot = "9007096900";
+google_ad_width = 300;
+google_ad_height = 250;
+google_analytics_domain_name=".derecho.com";
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/1002903/DER-Foros-2-post-300x250', [300, 250], 'div-gpt-ad-1332778598953-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<div id='div-gpt-ad-1332778598953-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1332778598953-0'); });
+</script>
+</div></div>
+						
+						
+				<div class="content hasad">
+					<div id="post_message_93247">
+						<blockquote class="postcontent restore ">
+							Se acuerda por mayoría simple en segunda convocatoria a Junta instalar un ascensor. La mayoría se consigue por 2 votos de diferencia, los 2 votos de unos propietarios de la planta baja, que a cambio quedan exentos de participar en gastos. El secretário administrador dice que lo normal es pagar según altura, cuando la LPH dice que se paga según cuota de participación, el reparto al final no es aprobado por falta de unanimidad y en el Acta sólo figura como aprobada la instalación del ascensor, pero a todos  los vecinos, excepto a los de la planta baja y el local, nos pasan a cobro la derrama de los gastos del ascensor y en proporción a la altura en lugar de ser según cuota de participación. Pido explicaciones al secretario-administrador y me dice que sigue ordenes del presidente, hablo con el presidente y me dice que eso es cosa del administrador, al final éste me dice que si no estoy de acuerdo &quot;IMPUGNE&quot; pero que me va a salir más cara la demanda que la instalación.  ¿Que puedo y qué debo hacer?. Gracias.
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93247" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93247" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93247" rel="nofollow" title="Citar"><img id="quoteimg_93247" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93248">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">02/10/2004,&nbsp;<span class="time">18:44</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93248" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93248&amp;viewfull=1#post93248" class="postcounter">#2</a><a id="postcount93248" name="2"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/5684-glorial?s=41b597c5d7fca85019a56f518ea773fc" title="glorial está desconectado"><strong>glorial</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/5684-glorial?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=5684&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="glorial está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>28 sep, 04</dd>
+					
+					
+					<dt>Mensajes</dt> <dd>86</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93248">
+						<blockquote class="postcontent restore ">
+							1º) notifica fehacientemente al Presidente tu desacuerdo con la derrama, y NO LA PAGUES. (Devuelve el recibo del banco si la tenías domiciliada)<br />
+<br />
+2º) Contrata un abogado y un procurador: Te puede salir gratis si tienes un seguro que cubra la impugnación de los acuerdos. También te puede salir gratis si tienes derecho a asistencia jurídica gratuita (en funcion de tus ingresos)<br />
+<br />
+3º) Interponer la demanda . En principio tienes un plazo de 1 año para impugnar (por ser acuerdo contrario a la ley y estatutos). Pero mi consejo es que impugnes en plazo de 3 meses.<br />
+<br />
+Suerte. Por lo que tu indicas NO deberías perder el Juicio.
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93248" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93248" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93248" rel="nofollow" title="Citar"><img id="quoteimg_93248" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93249">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">03/10/2004,&nbsp;<span class="time">05:14</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93249" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93249&amp;viewfull=1#post93249" class="postcounter">#3</a><a id="postcount93249" name="3"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" title="rosa martinez martinez está desconectado"><strong>rosa martinez martinez</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=5730&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="rosa martinez martinez está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>02 oct, 04</dd>
+					<dt>Ubicación</dt> <dd>madrid</dd>
+					
+					<dt>Mensajes</dt> <dd>51</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93249">
+						<blockquote class="postcontent restore ">
+							hola glorial, soy rosa y agradezco tu consejo, me han dicho que tengo derecho a asistencia jurídica gratuíta y estoy en ello, ya te contaré. Me gustaría que los foristas que puedan aconsejarme he informarme lo sigan haciendo pues créo que somos muchos los propietários  que nos sentimos amenazados, engañados y manipulados por los asecretários-administradores y presidentes de comunidad. gracias a todos y un saludo a glorial. rosa.
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93249" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93249" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93249" rel="nofollow" title="Citar"><img id="quoteimg_93249" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93250">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">04/10/2004,&nbsp;<span class="time">22:40</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93250" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93250&amp;viewfull=1#post93250" class="postcounter">#4</a><a id="postcount93250" name="4"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/5389-discolo5G?s=41b597c5d7fca85019a56f518ea773fc" title="discolo5G está desconectado"><strong>discolo5G</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/5389-discolo5G?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=5389&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="discolo5G está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Senior Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>20 ago, 04</dd>
+					<dt>Ubicación</dt> <dd>castrourdiales,españa</dd>
+					
+					<dt>Mensajes</dt> <dd>469</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow has_after_content">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93250">
+						<blockquote class="postcontent restore ">
+							1. Mire a ver los que no han aprobado la cacicada del administraidor.<br />
+2. pongase de acuerdo con ellos.<br />
+3. La adición o supresión de servicios requiere una mayoría cualificada de 3/5 de los copropietarios que, asu vez, representen 3/5 partes d elas cuotas de propiedad ya sean asistente o ausentes.<br />
+El problema es que los ausentes computan a favor del acuerdo si no se oponen al mismo. Hable con los ausentes para que envíen su voto en contra. Puede hacerlo llevandoles un papel que diga eso y que se lo firman. Luego lo envía por Burofax con acuse d erecibo y certificación de contenido (unas 3000 pta del ala).
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="after_content">
+				
+				
+				
+				
+					<blockquote class="signature restore"><div class="signaturecontainer">discolo</div></blockquote>
+				
+				
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93250" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93250" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93250" rel="nofollow" title="Citar"><img id="quoteimg_93250" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93251">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">04/10/2004,&nbsp;<span class="time">23:51</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93251" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93251&amp;viewfull=1#post93251" class="postcounter">#5</a><a id="postcount93251" name="5"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/4951-LexMentor?s=41b597c5d7fca85019a56f518ea773fc" title="LexMentor está desconectado"><strong>LexMentor</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/4951-LexMentor?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=4951&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="LexMentor está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Senior Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>08 jun, 04</dd>
+					
+					
+					<dt>Mensajes</dt> <dd>125</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93251">
+						<blockquote class="postcontent restore ">
+							Hay que tener cuidado con los consejos que se dan, porque uno de los consejos es de lo peor que se podía haber dado, el consejo es este:<br />
+<br />
+1º) notifica fehacientemente al Presidente tu desacuerdo con la derrama, y NO LA PAGUES. (Devuelve el recibo del banco si la tenías domiciliada)<br />
+<br />
+Es un error MUY grave, ya que si no paga, NO PUEDE IMPUGNAR, lo que en todo caso debería hacer es cosignarlo, pero nunca dejar de pagar.<br />
+<br />
+Otra cosa que debéis tener en cuenta según la jurisprudencia que va saliendo es la siguiente: En el mismo acuerdo de aprobación del ascensor (que puede ser por 3/5 o por mayoría según el caso) se puede aprobar por la misma mayoría necesaria para la instalación,  que se repartan los gastos de forma diferente, no siendo necesaria en este caso la unanimidad. En este caso, no tengo muy claro que es lo que se votó, lo que se aprobó o no , y sobre todo, lo que se puso en el acta.<br />
+<br />
+Es decir, que habría que ver que dice el acta exactamente.
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93251" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93251" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93251" rel="nofollow" title="Citar"><img id="quoteimg_93251" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93252">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">05/10/2004,&nbsp;<span class="time">13:05</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93252" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93252&amp;viewfull=1#post93252" class="postcounter">#6</a><a id="postcount93252" name="6"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" title="rosa martinez martinez está desconectado"><strong>rosa martinez martinez</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=5730&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="rosa martinez martinez está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>02 oct, 04</dd>
+					<dt>Ubicación</dt> <dd>madrid</dd>
+					
+					<dt>Mensajes</dt> <dd>51</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93252">
+						<blockquote class="postcontent restore ">
+							Hola, en primer lugar agradecer a los que me han contestado,  y ahora quiero que sepan la clase de administrador que tenemos,(forma parte de una sociedad de administradores muy popular en la zona más humilde del Barrio del pilar de Madrid).Nos convoca a junta a las 19,30h en primera comvocatoria y de no cubrirse el minimo de asistencia (no especifica qué minimo), a las 20h del mismo día en segunda convocatoria. A las  19,30 asistimos a la junta 18 de los 23 propietarios que formamos la comunidad y representamos el 60,18% de cuota de participación, y el administrador nos dice que está ocupado y hasta las 20h no nos puede atender. ¿Lo ban cogiendo?. A las 20h se habre la sesión y lo que en primera convocatoria necesita de las 3/5 partes para ser aprobado en segunda conv. se aprueba con mayoría simple. He de aclarar que todos estamos conformes con la instalación pero siempre y cuando no nos obligue a pagar. De los 18 que asistimos 11 votaron a favor del reparto, curiosamente los 2 votos que nos obligan a  todos son de los vecinos de la planta baja que,seguramente con premeditanción, alevosía y supuestamente tratado de antemano con algunos &quot;listillos&quot; pretenden quedar exentos del pago a cambio de obligarnos al resto, me parece bién que no quieran pagar porque no van a utilizarlo, aunque debajo de ellos está el sotano, los pátios, contadores de luz y agua y cubos de basura, ¿y si quieren utilizar el ascensor para baja?, bueno me parece bién que no paguen, pero que no nos obliguen a los que viviendo en pisos más altos ó más bajos(sotano),que por los motivos que sean tampoco vamos a utitizarlo. Posiblemente se arrepientan de lo que han hecho, pués si la mayoría obliga a todos, ellos solitos se han obligado. En cuanto al reparto, según los estatutos, todo lo que se haga en la comunidad implica a todos los propietarios y según cuota de participación. <br />
+A mí para inpugnar no me exigen estár al corriente de pago, pués la deuda es debida a un acuerdo que es contrario a la ley. En cuanto a que los morosos no pueden votar en las juntas la Ley dice que: siempre y cuando no se haya impugnado el acuerdo motivo de la deuda, pero hay que presentar justificante. ¿Que les parece el secretario-administrador Sr. Feli.., se le vé muy suelto en las arte  del manipuleo ¿verdad?. <br />
+Se me olvidaba decirles que el administrador se confundió en los gastos de instalación en casi medió millón, y cuando le llamé la atención tuvo que rectificar, todo ésto llegado el momento puedo justificarlo. Podía siguir pero no quiero cansarles. Un saludo.<br />
+<br />
+------------------
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93252" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93252" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93252" rel="nofollow" title="Citar"><img id="quoteimg_93252" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93253">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">05/10/2004,&nbsp;<span class="time">15:37</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93253" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93253&amp;viewfull=1#post93253" class="postcounter">#7</a><a id="postcount93253" name="7"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/5684-glorial?s=41b597c5d7fca85019a56f518ea773fc" title="glorial está desconectado"><strong>glorial</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/5684-glorial?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=5684&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="glorial está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>28 sep, 04</dd>
+					
+					
+					<dt>Mensajes</dt> <dd>86</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93253">
+						<blockquote class="postcontent restore ">
+							en una ocasion mi comunidad acordó unas obras. Yo aboné la derrama para poder seguir teniendo voto, pero me opuse al acuerdo mediante notificación fehaciente al administrador y presidente. <br />
+Después impugné el acuerdo. <br />
+La respuesta de la comunidad a mi demanda es que no estoy legitimado para impugnar porque &quot;he abonado religiosamente&quot; la derrama.<br />
+<br />
+por tanto: si pago la drrama no puedo impugnar? y si no pago tampoco porque soy moroso.<br />
+<br />
+Quiero decir que un vecino mío impugnó diferentes reuniones en una demanda contra la comunidad y tenía deudas con ella. No conozco la sentencia todavía, pero el abogado del vecino decía claramente que la Ley PH indica que puedes dejar de pagar lo impugnado. <br />
+<br />
+creo que cada letrado interpreta como quiere las cosas, y los jueces puede que tambiíne porque sino ¿cómo admitió a tramite la demanda, si el impugnador debía las derramas que impugnaba?
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93253" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93253" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93253" rel="nofollow" title="Citar"><img id="quoteimg_93253" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93254">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">05/10/2004,&nbsp;<span class="time">16:54</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93254" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93254&amp;viewfull=1#post93254" class="postcounter">#8</a><a id="postcount93254" name="8"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/4951-LexMentor?s=41b597c5d7fca85019a56f518ea773fc" title="LexMentor está desconectado"><strong>LexMentor</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/4951-LexMentor?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=4951&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="LexMentor está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Senior Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>08 jun, 04</dd>
+					
+					
+					<dt>Mensajes</dt> <dd>125</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93254">
+						<blockquote class="postcontent restore ">
+							A ver Glorial, creo que das a entender que no conoces el tema y me explico.<br />
+<br />
+La Comunidad no es NADIE para decidir quien puede impugnar y quien no, es un juez quien lo decide, eso en primer lugar.<br />
+<br />
+En segundo lugar, no se trata de interpretación, la LPH (art.18.2) deja bien claro que para poder impugnar se debe estar al corriente de pago, lo que diga el Administrador de turno o el presidente vale tanto como lo que diga cualquier personaje del mundo rosa, es decir, nada, porque en última instancia, vuelvo a insisitir, es el juez quien decide.<br />
+<br />
+Da igual que el acto sea o no contrario a la ley para estar al corriente o no, porque de momento el acto es según la ley mientras un juez no decida lo contrario, vuelvo a repetir que sólo un juez determina que un acto es contrario a la ley, y mientras no sea así, se debe cumplir con todo lo que se haya acordaba, ya será un juez quien determine medidas cautelares en su caso para no causar perjuicio mientras se decide el caso.<br />
+<br />
+El artículo 18.2 es tajante y no admite interpretaciones, se debe estar al corriente de pago de las deudas vencidas, y si te han pasado al cobro, es que tiene consideración de deuda vencida, pero en todo caso, habría que ver que dice el acta de la forma de abonar las derramas.<br />
+<br />
+La LPH es tajante en este punto, y nadie de nosotros, ni la comunidad, ni el administrador, ni ningún abogado puede alterar este punto, sólo un juez podría hacerlo.<br />
+<br />
+Insisto en que no es necesario pagar al administrador, pero para poder impugnar como mínimo se debe consignar la cantidad, es decir, poner la cantidad a pagar a disposición judicial,  de esta forma se considera que se está al corriente de pago.<br />
+<br />
+Quién no te exigue que estés al corriente de pago? la comunidad? pero si la comunidad no es NADIE, es que tu puedes impugnar, no te piden judicialmente ningún papel de estar al corriente de pago, pero si la comunidad, en su contestación a la demanda, alega deudas pendientes, ya te han jodido.<br />
+<br />
+El problema de las comunidades, es que hay mucha gente (administradores, vecinos enteradillos, etc...) que creen que conocen el tema y realmente no saben y se suelen liar unos berenjelas impresionantes, y después vienen corriendo a los abogados para que les resolvamos el tema, cuando el tema ya está en un punto que es imposible hacer nada.<br />
+<br />
+Otra cuestión importante que os pido para no liar aquí el tema, es que no contestéis según vuestros casos y los de vuestros vecinos, cada caso es un mundo aparte y no tiene nada que ver y contestar según casos particulares puede llevar a la confusión.
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93254" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93254" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93254" rel="nofollow" title="Citar"><img id="quoteimg_93254" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93255">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">05/10/2004,&nbsp;<span class="time">20:16</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93255" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93255&amp;viewfull=1#post93255" class="postcounter">#9</a><a id="postcount93255" name="9"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/4727-Lucinoa?s=41b597c5d7fca85019a56f518ea773fc" title="Lucinoa está desconectado"><strong>Lucinoa</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/4727-Lucinoa?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=4727&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="Lucinoa está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>06 may, 04</dd>
+					<dt>Ubicación</dt> <dd>madrid</dd>
+					
+					<dt>Mensajes</dt> <dd>83</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+				<div class="content">
+					<div id="post_message_93255">
+						<blockquote class="postcontent restore ">
+							Totalmente de acuerdo con Lex en todos los aspectos.<br />
+Para poder impugnar hay que estar al corriente de pago de todas las deudas vencidas, y en esto caso, parece que así sea al menos en la primera derrama.<br />
+Como bien dice Lex, si no se impugna, por muy ilegal que sea el acuerdo, sigue siendo válido y por tanto, mientras no se recurra, sigue produciendo efectos, al menos hasta que un juez diga la contrario.<br />
+Cuidado con los casos particulares, sobre todo en este caso, porque hasta 1999 se podía impugnar aún siendo moroso recalcitrante, pero a partir de entonces, si se debe algo, no se puede impugnar.<br />
+Lo que más me choca es la frase :&quot;el abogado del vecino decía claramente que la Ley PH indica que puedes dejar de pagar lo impugnado&quot; y mi pregunta es, dónde dice la LPH eso? porque no lo dice en ningún sitio, todo lo contrario, lo que sí dice la LPH es que se debe estar al corriente de pago de las deudas vencidas<br />
+Hay que tener mucho cuidado con lo que se contesta, sobre todo si no se tienen conocimientos de derecho, porque después se dan respuestas que pueden perjudicar, como en este caso, si esta persona hiciera caso y no pagara y después intenta impugnar, pues la ha fastidiado con todo el equipo.
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93255" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93255" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93255" rel="nofollow" title="Citar"><img id="quoteimg_93255" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+<li class="postbitlegacy postbitim postcontainer old" id="post_93256">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+
+	<div class="posthead">
+			<span class="postdate old">
+				
+					<span class="date">06/10/2004,&nbsp;<span class="time">03:52</span></span>
+				
+			</span>
+			<span class="nodecontrols">
+				
+					<a name="post93256" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;p=93256&amp;viewfull=1#post93256" class="postcounter">#10</a><a id="postcount93256" name="10"></a>
+				
+				
+				
+			</span>
+	</div>
+	<div class="postdetails">
+		<div class="userinfo">
+			<div class="username_container">
+			
+				<div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" title="rosa martinez martinez está desconectado"><strong>rosa martinez martinez</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/5730-rosa-martinez-martinez?s=41b597c5d7fca85019a56f518ea773fc" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=finduser&amp;userid=5730&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div>
+				<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="rosa martinez martinez está desconectado" border="0" />
+
+			
+			</div>
+			<span class="usertitle">
+				Member
+			</span>
+			
+			
+			
+			 
+			
+				<hr />
+				<dl class="userinfo_extra">
+					<dt>Fecha de ingreso</dt> <dd>02 oct, 04</dd>
+					<dt>Ubicación</dt> <dd>madrid</dd>
+					
+					<dt>Mensajes</dt> <dd>51</dd>	
+					
+				</dl>
+				
+				
+				<div class="imlinks">
+					    
+				</div>
+			
+		</div>
+		<div class="postbody">
+			<div class="postrow">
+				
+				
+				<h2 class="title icon">
+					Re: ACUERDO CONTRARIO A LA LPH (ASCENSOR)
+				</h2>
+				
+
+
+						
+						
+							
+						
+				<div class="content">
+					<div id="post_message_93256">
+						<blockquote class="postcontent restore ">
+							Gracias de corazon a todos.<br />
+<br />
+paso a resumirles el contenido de los tres únicos escritos que nos han entregado a<br />
+los propietarios.<br />
+ <br />
+1.- combocatória a junta. ORDEN DEL DIA.<br />
+<br />
+APROBACIÓN DE INSTALACIÓN DE ASCENSOR Y APROBACIÓN DE FORMA DE PAGO Y REPARTO.<br />
+<br />
+2.- ACTA DE LA JUNTA EXTRAORDINARIA.<br />
+<br />
+Queda aprobado legalmente el acuerdo de instalación de un ascensor.(especificando el recuento de votos) y no hay nada más.<br />
+<br />
+3.- &quot;CIRCULAR INFORMATIVA MUY IMPORTANTE&quot;<br />
+<br />
+Se pasarán derramas extras ...(especificando la cantidad que abonará cada propietario), y excluyendo del pago a los bajos y el local.<br />
+<br />
+He recordar que el coeficiente de cada una de las viviendas comprendidas entre la 1º y 4º planta es de el 4,34%. pero la derrama que nos pasan a los del 4º piso es un 250% superior a la que pasan a los del 1º.<br />
+ <br />
+Repanando las cuentas de la cantidad a reparti observo que hay una diferencia de casi 3000€ de más, llamo al administrador y me dice que tengo razón y que va a rectificar. Le digo que no me pasen la derrama del ascensor y me dice que no me preocupe que si nó quiero no me la pasan.(tengo grabada la conversación),pero ahora me dice que él presidente le ha dicho que tengo que pagar y que para él &quot;lo que dice el presidente está por encima de la Ley. Un saludo. Rosa.
+						</blockquote>
+					</div>
+
+					
+				</div>
+			</div>
+			
+			<div class="cleardiv"></div>
+		</div>
+	</div>
+		<div class="postfoot">
+			<!-- <div class="postfoot_container"> -->
+			<div class="textcontrols floatcontainer">
+				<span class="postcontrols">
+					<img style="display:none" id="progress_93256" src="images/misc/progress.gif" alt="" />
+					
+					
+					
+						<a id="qrwq_93256" class="newreply" href="newreply.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=newreply&amp;p=93256" rel="nofollow" title="Citar"><img id="quoteimg_93256" src="clear.gif" alt="Citar" />  Citar</a> 
+					
+					
+					
+				</span>
+				<span class="postlinking">
+					
+						
+					
+
+					
+					
+					
+					
+
+					
+					
+
+					
+					
+					
+					
+					
+				</span>
+			<!-- </div> -->
+			</div>
+		</div>
+	<hr />
+</li>
+
+		</ol>
+		<div class="separator"></div>
+		<div class="postlistfoot">
+			
+		</div>
+
+	
+
+</div>
+
+<div id="below_postlist" class="noinlinemod below_postlist">
+	
+	<div id="pagination_bottom" class="pagination_bottom">
+	
+		<form action="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page3?s=41b597c5d7fca85019a56f518ea773fc" method="get" class="pagination popupmenu nohovermenu">
+<input type="hidden" name="t" value="36206" /><input type="hidden" name="s" value="41b597c5d7fca85019a56f518ea773fc" />
+	
+		<span><a href="javascript://" class="popupctrl">Página 1 de 9</a></span>
+		
+		
+		
+		<span class="selected"><a href="javascript://" title="Resultados 1 al 10 de 81">1</a></span><span><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page2?s=41b597c5d7fca85019a56f518ea773fc" title="Mostrar resultados del 11 al 20 de 81">2</a></span><span><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page3?s=41b597c5d7fca85019a56f518ea773fc" title="Mostrar resultados del 21 al 30 de 81">3</a></span>
+		
+		<span class="separator">...</span>
+		
+		
+		<span class="prev_next"><a rel="next" href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page2?s=41b597c5d7fca85019a56f518ea773fc" title="Siguiente página - Resultados del 11 al 20 de 81"><img src="images/pagination/next-right.png" alt="Siguiente" /></a></span>
+		
+		
+		<span class="first_last"><a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)/page9?s=41b597c5d7fca85019a56f518ea773fc" title="Última página - Resultados del 81 al 81 de 81">Último<img src="images/pagination/last-right.png" alt="Último" /></a></span>
+		
+	
+	<ul class="popupbody popuphover">
+		<li class="formsubmit jumptopage"><label>Saltar a página: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value=" Ir " /></li>
+	</ul>
+</form>
+	
+		<div class="clear"></div>
+<div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+	
+		<span class="shade">Navegación rápida</span>
+		<a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc" class="popupctrl"><span class="ctrlcontainer">Derecho Inmobiliario</span></a>
+		<a href="tema/tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)#top" class="textcontrol" onclick="document.location.hash='top';return false;">Arriba</a>
+	
+	<ul class="navpopupbody popupbody popuphover">
+		
+		<li class="optionlabel">Zonas del sitio</li>
+		<li><a href="usercp.php?s=41b597c5d7fca85019a56f518ea773fc">Configuración</a></li>
+		<li><a href="private.php?s=41b597c5d7fca85019a56f518ea773fc">Mensajes privados</a></li>
+		<li><a href="subscription.php?s=41b597c5d7fca85019a56f518ea773fc">Suscripciones</a></li>
+		<li><a href="online.php?s=41b597c5d7fca85019a56f518ea773fc">Quien está en línea</a></li>
+		<li><a href="search.php?s=41b597c5d7fca85019a56f518ea773fc">Buscar en los foros</a></li>
+		<li><a href="forum.php?s=41b597c5d7fca85019a56f518ea773fc">Listado de foros</a></li>
+		
+			<li class="optionlabel">Foros</li>
+			
+		
+			
+				<li><a href="foro/5-Derecho-Civil?s=41b597c5d7fca85019a56f518ea773fc">Derecho Civil</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/20-Derecho-Civil-General?s=41b597c5d7fca85019a56f518ea773fc">Derecho Civil General</a></li>
+			
+		
+			
+				<li><a href="foro/31-Derecho-de-las-Personas?s=41b597c5d7fca85019a56f518ea773fc">Derecho de las Personas</a></li>
+			
+		
+			
+				<li><a href="foro/34-Derecho-Inmobiliario?s=41b597c5d7fca85019a56f518ea773fc">Derecho Inmobiliario</a></li>
+			
+		
+			
+				<li><a href="foro/39-Foro-legal-empresarial?s=41b597c5d7fca85019a56f518ea773fc">Foro legal empresarial</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/48-Patentes-y-Marcas-(Propiedad-Industrial)?s=41b597c5d7fca85019a56f518ea773fc">Patentes y Marcas (Propiedad Industrial)</a></li>
+			
+		
+			
+				<li><a href="foro/6-Derecho-General?s=41b597c5d7fca85019a56f518ea773fc">Derecho General</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/19-Derecho-General?s=41b597c5d7fca85019a56f518ea773fc">Derecho General</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/7-Derecho-Administrativo?s=41b597c5d7fca85019a56f518ea773fc">Derecho Administrativo</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/21-Derecho-Administrativo-General?s=41b597c5d7fca85019a56f518ea773fc">Derecho Administrativo General</a></li>
+			
+		
+			
+				<li><a href="foro/37-Derecho-de-la-Circulación?s=41b597c5d7fca85019a56f518ea773fc">Derecho de la Circulación</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/8-Derecho-Laboral?s=41b597c5d7fca85019a56f518ea773fc">Derecho Laboral</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/22-Derecho-Laboral?s=41b597c5d7fca85019a56f518ea773fc">Derecho Laboral</a></li>
+			
+		
+			
+				<li><a href="foro/32-Prevención-de-Riesgos-Laborales?s=41b597c5d7fca85019a56f518ea773fc">Prevención de Riesgos Laborales</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/9-Derecho-Mercantil?s=41b597c5d7fca85019a56f518ea773fc">Derecho Mercantil</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/23-Derecho-Mercantil?s=41b597c5d7fca85019a56f518ea773fc">Derecho Mercantil</a></li>
+			
+		
+			
+				<li><a href="foro/47-Concursal?s=41b597c5d7fca85019a56f518ea773fc">Concursal</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/10-Derecho-Tributario?s=41b597c5d7fca85019a56f518ea773fc">Derecho Tributario</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/24-Derecho-Tributario?s=41b597c5d7fca85019a56f518ea773fc">Derecho Tributario</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/11-Derecho-Procesal?s=41b597c5d7fca85019a56f518ea773fc">Derecho Procesal</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/25-Derecho-Procesal?s=41b597c5d7fca85019a56f518ea773fc">Derecho Procesal</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/12-Derecho-Penal?s=41b597c5d7fca85019a56f518ea773fc">Derecho Penal</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/26-Derecho-Penal?s=41b597c5d7fca85019a56f518ea773fc">Derecho Penal</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/13-Estudiantes-de-Derecho?s=41b597c5d7fca85019a56f518ea773fc">Estudiantes de Derecho</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/27-Estudiantes-de-Derecho?s=41b597c5d7fca85019a56f518ea773fc">Estudiantes de Derecho</a></li>
+			
+		
+			
+				<li><a href="foro/33-Tesis-doctorados-y-opositores?s=41b597c5d7fca85019a56f518ea773fc">Tesis, doctorados y opositores</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/16-Derecho-Informático-de-las-Telecomunicaciones-e-Internet?s=41b597c5d7fca85019a56f518ea773fc">Derecho Informático, de las Telecomunicaciones e Internet</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/28-Internet-Comercio-Electrónico?s=41b597c5d7fca85019a56f518ea773fc">Internet , Comercio Electrónico</a></li>
+			
+		
+			
+				<li><a href="foro/38-Derecho-de-las-Telecomunicaciones?s=41b597c5d7fca85019a56f518ea773fc">Derecho de las Telecomunicaciones</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/14-Foro-Legal-Empresarial?s=41b597c5d7fca85019a56f518ea773fc">Foro Legal Empresarial</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/29-Derecho-Latinoamericano-General?s=41b597c5d7fca85019a56f518ea773fc">Derecho Latinoamericano General</a></li>
+			
+		
+			
+				<li><a href="foro/40-Empresas-tecnológicas?s=41b597c5d7fca85019a56f518ea773fc">Empresas tecnológicas</a></li>
+			
+		
+			
+				<li><a href="foro/42-Sector-inmobiliario-construcción?s=41b597c5d7fca85019a56f518ea773fc">Sector inmobiliario/construcción</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/17-Derecho-del-Medio-Ambiente?s=41b597c5d7fca85019a56f518ea773fc">Derecho del Medio Ambiente</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/35-Derecho-del-Medio-Ambiente?s=41b597c5d7fca85019a56f518ea773fc">Derecho del Medio Ambiente</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/15-Derecho-de-Extranjería?s=41b597c5d7fca85019a56f518ea773fc">Derecho de Extranjería</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/30-Derecho-de-Extranjería?s=41b597c5d7fca85019a56f518ea773fc">Derecho de Extranjería</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/18-Derecho-Internacional?s=41b597c5d7fca85019a56f518ea773fc">Derecho Internacional</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/36-Derecho-Internacional?s=41b597c5d7fca85019a56f518ea773fc">Derecho Internacional</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+		
+	</ul>
+</div>
+<div class="clear"></div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+	<!-- next / previous links -->
+	<div class="navlinks">
+		
+			<strong>&laquo;</strong>
+			<a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;goto=nextoldest" rel="nofollow">Tema anterior</a>
+			|
+			<a href="tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)?s=41b597c5d7fca85019a56f518ea773fc&amp;goto=nextnewest" rel="nofollow">Próximo tema</a>
+			<strong>&raquo;</strong>
+		
+	</div>
+	<!-- / next / previous links -->
+
+
+<!-- Abogado -->
+<div style="clear: both; display: block; height: auto; width: 910px; margin: 10px auto 30px;">
+												<div style="background-color: #E26D10; clear: both; display: block; color: #FFF; margin: 0px; font: bold 12px Arial,sans-serif; padding: 10px;"><span>CONSULTA A UN ABOGADO</span><span style="float:right;"></span></div>
+												<div style="background-color: #FFFFFF; border: 1px solid #C9C9C9; padding: 5px 10px 10px;">
+												<p style="margin-bottom:10px">Si necesitas m&aacute;s informaci&oacute;n y quieres contactar directamente con un abogado, indica el motivo y pulsa el bot&oacute;n "Contactar".</p>
+													<form style="overflow: hidden; margin-top: 5px; clear: both;" action="#" id="consultaAbogado" name="consultaAbogado">
+														<input type="radio" style="float: left; margin-right: 5px; margin-top: 8px;" name="motivo" value="visita"><span style="float: left; margin-top: 8px;">Concertar una visita </span>
+														<input type="radio" style="float: left; margin-left: 20px; margin-right: 5px; margin-top: 8px;" name="motivo" value="presupuesto"><span style="float: left; margin-top: 8px;">Pedir un presupuesto</span>
+														<a style="float: left; background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAbCAYAAAC9WOV0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAK8AAACvABQqw0mAAAABV0RVh0Q3JlYXRpb24gVGltZQAxNS8yLzEyovmQtgAAAB50RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNS4xqx9I6wAAADlJREFUCJljWHDI/D/TfwZGBqaHX/4zMP1lYGJg+svAyMD09z8jKosJWewfQgxdMZFicPP+MTAyAABNwihv4fYkbAAAAABJRU5ErkJggg==&quot;) repeat-x scroll left top rgb(93, 177, 70); border-color: rgb(58, 145, 72); box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25); color: rgb(255, 255, 255); text-shadow: 0px 1px 2px rgba(35, 96, 49, 0.65); border-radius: 3px 3px 3px 3px; font-size: 14px; font-weight: 600; height: 29px; padding: 0px; display: inline-block; margin: 0px;text-decoration: none; margin-left:75px" href="https://www.elabogado.com/?utm_source=www.derecho.com&utm_medium=Leads+Derecho&utm_campaign=Consulta+un+Abogado" target="_blank" title="Contactar con abogado">
+															<span style="border-top: 2px solid #9BC252; border-radius: 2px 2px 2px 2px; display: block; height: 27px; line-height: 20px; padding: 1px 10px 0;">Contactar con un abogado</span>
+														</a>
+													</form> 
+												</div>
+											</div>
+
+
+<div id="breadcrumb_two" class="breadcrumb" style="margin-bottom:10px">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=41b597c5d7fca85019a56f518ea773fc" ><img src="images/misc/navbit-home.png" alt="Inicio" /></a></li>
+
+		
+   
+	<li class="navbit"><a title="Foros" href="forum.php?s=41b597c5d7fca85019a56f518ea773fc">Foros</a></li>
+    
+
+   
+        <li class="navbit"><a title="Foro Derecho Civil" href="foro/5-Derecho-Civil?s=41b597c5d7fca85019a56f518ea773fc">Foro Derecho Civil</a></li>
+    
+
+   
+        <li class="navbit"><a title="Foro Derecho Inmobiliario" href="foro/34-Derecho-Inmobiliario?s=41b597c5d7fca85019a56f518ea773fc">Foro Derecho Inmobiliario</a></li>
+    
+
+		
+   
+		
+			<li class="navbit lastnavbit"><span title=" ACUERDO CONTRARIO A LA LPH (ASCENSOR)"> ACUERDO CONTRARIO A LA LPH (ASCENSOR)</span></li>
+			
+    
+
+	</ul>
+	<hr />
+</div>
+<div id="thread_info" class="thread_info block">
+	
+	
+	
+	
+	
+	
+	<div class="options_block_container">
+		
+		<div class="options_block2">
+			<h4 class="blockhead options_correct">Marcadores</h4>
+			<div id="social_bookmarks_list" class="thread_info_block blockbody formcontrols floatcontainer options_correct">
+				<h5 class="blocksubhead">Marcadores</h5>
+				<ul class="icon_list"><li class="smallfont">
+	
+		<a href="http://twitter.com/home?status=ACUERDO+CONTRARIO+A+LA+LPH+%28ASCENSOR%29 https%3A%2F%2Fforos.derecho.com%2Fshowthread.php%3Ft%3D36206" target="socialbookmark"><img src="images/misc/bookmarksite_twitter.gif" alt="Enviar a Twittear" /></a>
+	
+	<a href="http://twitter.com/home?status=ACUERDO+CONTRARIO+A+LA+LPH+%28ASCENSOR%29 https%3A%2F%2Fforos.derecho.com%2Fshowthread.php%3Ft%3D36206" target="socialbookmark">Twittear</a>
+</li><li class="smallfont">
+	
+		<a href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=https%3A%2F%2Fforos.derecho.com%2Fshowthread.php%3Ft%3D36206&amp;title=ACUERDO+CONTRARIO+A+LA+LPH+%28ASCENSOR%29" target="socialbookmark"><img src="images/misc/bookmarksite_google.gif" alt="Enviar a Google" /></a>
+	
+	<a href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=https%3A%2F%2Fforos.derecho.com%2Fshowthread.php%3Ft%3D36206&amp;title=ACUERDO+CONTRARIO+A+LA+LPH+%28ASCENSOR%29" target="socialbookmark">Google</a>
+</li></ul>
+			</div>
+		</div>
+		
+		<div class="options_block">
+			<h4 class="collapse blockhead options_correct">
+				<a class="collapse" id="collapse_posting_rules" href="tema/tema/36206-ACUERDO-CONTRARIO-A-LA-LPH-(ASCENSOR)#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+				Permisos de publicación
+			</h4>
+			<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer options_correct">
+				
+<div id="forumrules" class="info_subblock">
+
+	<ul class="youcandoblock">
+		<li><strong>No puedes</strong> crear nuevos temas</li>
+		<li><strong>No puedes</strong> responder temas</li>
+		<li><strong>No puedes</strong> subir archivos adjuntos</li>
+		<li><strong>No puedes</strong> editar tus mensajes</li>
+		<li>&nbsp;</li>
+	</ul>
+	<div class="bbcodeblock">
+		<ul>
+			<li><a href="misc.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=bbcode" target="_blank">Códigos BB</a> están <strong>Activo</strong></li>
+			<li>Los <a href="misc.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=showsmilies" target="_blank">Emoticonos</a> están <strong>Activo</strong></li>
+			<li>Código <a href="misc.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=bbcode#imgcode" target="_blank">[IMG]</a> está <strong>Activo</strong></li>
+			<li>Código <a href="misc.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=bbcode#videocode" target="_blank">[VIDEO]</a> está <strong>Activo</strong></li>
+			<li>Código HTML está <strong>Inactivo</strong></li>
+		</ul>
+	</div>
+	<p class="rules_link"><a href="misc.php?s=41b597c5d7fca85019a56f518ea773fc&amp;do=showrules" target="_blank">Reglas del foro</a></p>
+
+</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="clear: left">
+   
+  
+</div>
+
+<!-- aqui pie de derecho.com -->
+<footer>
+	<div class="clearfix">
+		<ul class="column link" title="Trámites">
+			<h4><b>Trámites</b></h4>
+			<li><a title="Registro de la Propiedad" href="https://registropropiedad.derecho.com/" rel="nofollow">Registro de la Propiedad</a></li>
+			<li><a title="Nota simple" href="https://www.derecho.com/registro-propiedad/nota-simple.html" rel="nofollow">Nota simple</a></li>
+                        <li><a title="Propiedades de alguien" href="https://www.derecho.com/registro-propiedad/propiedades-de-alguien.html" rel="nofollow">Propiedades de alguien</a></li>
+			<li><a title="Registro de marcas" href="https://www.derecho.com/registro-marcas.html">Registro de marcas</a></li>
+			<li><a title="Registro Mercantil" href="https://www.infomercantil.es/">Registro Mercantil</a></li>
+			<li><a title="Informes DGT" href="https://www.derecho.com/dgt/informe-de-vehiculo-por-matricula.html">Informes DGT</a></li>
+		</ul>
+		<ul class="column link" title="Contenidos">
+			<h4><b>Contenidos</b></h4>
+			<li><a title="Contratos" href="https://www.derecho.com/contratos/">Contratos</a></li>
+			<li><a title="Artículos" href="https://www.derecho.com/articulos/">Artículos</a></li>
+			<li><a title="Conceptos jurídicos" href="https://www.derecho.com/c/">Conceptos jurídicos</a></li>
+			<li><a title="Foros" href="https://foros.derecho.com/">Foros</a></li>
+		</ul>
+		<ul class="column link" title="Derecho.com">
+			<h4><b>Derecho.com</b></h4>
+			<li><a title="Sobre Derecho.com" href="https://www.derecho.com/sobre-derecho" rel="nofollow">Sobre Derecho.com</a></li>
+			<li><a title="Atención al cliente" href="https://www.derecho.com/xml/atencion.xml" rel="nofollow">Atención al cliente</a></li>
+			<li><a href="mailto:info@derecho.com" title="Contacto" rel="nofollow" name="Contacto" class="mx">Contacto</a></li>
+		</ul>
+		<ul class="column images">
+			<li class="logo_derecho"><a href="https://www.derecho.com/" title="Derecho.com" rel="nofollow"><img alt="Derecho.com" src="https://www.derecho.com/_img/images/derecho-com.png"/></a></li>
+			<li class="cleft"><a href="https://es-es.facebook.com/pages/Derechocom/212281438750" title="Facebook" rel="nofollow external" id="facebook" class="fImg social opacity6"></a></li>
+			<li><a href="https://twitter.com/#!/derechocom" title="Twitter" rel="nofollow external" id="twitter" class="fImg social opacity6"></a></li>
+			<li><a href="https://plus.google.com/u/1/115675042182006836105" title="Google +" rel="nofollow external" id="googlePlus" class="fImg social opacity6"></a></li>
+			<li><a href="https://www.linkedin.com/company/derecho.com/" title="LinkedIn" rel="nofollow external" id="linkedin" class="fImg social opacity6"></a></li>
+			<li class="cleft"><a href="https://www.verisign.es/ssl-certificate/" title="Verisign" rel="nofollow external" id="verisign" class="fImg"></a></li>
+			<li><a href="http://www.confianzaonline.org/" title="Confianza Online" rel="nofollow external" id="confianza" class="fImg"></a></li>
+			<li><a href="http://www.adigital.org/" title="Adigital" rel="nofollow external" id="adigital" class="fImg"></a></li>
+			<li class="cleft mTop5"><a href="https://twitter.com/DerechoCom" class="twitter-follow-button" data-show-count="false" data-lang="es" data-size="large">Seguir a @DerechoCom</a></li>
+		</ul>
+	</div>
+	<div id="otherF" class="mTop15 mRight30 mLeft30 clearfix">
+		<ul id="legal" class="row" title="Legal">		
+			<h5>Legal:</h5>
+			<li><a href="https://www.derecho.com/avisolegal.html" title="Aviso legal">Aviso legal</a></li>
+			<li><a href="https://www.derecho.com/privacidad.html" title="Privacidad y cookies">Privacidad y cookies</a></li>
+			<li><a href="https://www.derecho.com/cond_generales.html" title="Condiciones generales">Condiciones generales</a></li>
+			<li><a href="https://www.derecho.com/contacto/" title="Contacto">Contacto</a></li>
+		</ul>
+		<ul class="row" title="Otros enlaces">
+			<h5>Otros enlaces:</h5>
+			<li><a href="https://www.elabogado.com/" title="Encontrar un abogado" rel="external">Encontrar un abogado</a></li>
+			<li><a href="http://www.proteccion-datos.com.es/" title="Protección de datos" rel="external">Protección de datos</a></li>
+			<li><a href="https://www.registro.es/" title="Registro Propiedad">Registro Propiedad</a></li>
+			<li><a href="https://usa.elabogado.com/" title="Abogados Estados Unidos">Abogados Estados Unidos</a></li>
+			<li><a href="https://www.registrar-marca.com/" title="Registrar marca">Registrar marca</a></li>
+			<li><a href="https://www.registro.es/RegistroPropiedad/tienda/nota-simple.html" title="Notas Simples">Notas Simples</a></li>
+			<li><a href="https://www.registro-marcas.es/" title="Registro marcas">Registro marcas</a></li>
+			<li><a href="https://www.registro.es/RegistroPropiedad/tienda/notas-simples-de-una-persona.html" title="Localización de propiedades">Localización de propiedades</a></li>
+			<li><a href="https://www.infomercantil.es/" title="Registro Mercantil">Registro Mercantil</a></li>
+			<li><a href="https://www.propiedades.de/" title="Propiedades de empresas">Propiedades de empresas</a></li>
+		</ul>
+	</div>
+	<div class="clearfix copy">&#169; Derecho.com &amp; Jurisweb.com desde 1997</div>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		<!--[if lt IE 8]>
+	<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+	<script>window.attachEvent("onload",function(){if(window.CFInstall){CFInstall.check({mode:'overlay'})}})</script>
+<![endif]-->
+</footer>
+<script async src="https://www.elabogado.com/assets/js/external-lead/external-lead.js"></script> 
+<!-- fin de pie de derecho.com -->
+</script><script src="https://www.derecho.com/_js/jquery/jquery-latest.pack.js" type="text/javascript">// jquery library</script>
+
+<!--<script src="https://www.derecho.com/_js/jquery/thickbox.js" type="text/javascript">//</script>-->
+
+<!--<script src="https://www.derecho.com/_js/init.js" type="text/javascript">// funciones comunes</script>-->
+<script type="text/javascript" src="https://foros.derecho.com/var/generador/scripts_header_footer.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-132715-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Documentos\AII\.metadata\.plugins\org.eclipse.core.resources\.projects\Practica 1\com.python.pydev.analysis\v2_indexcache
+src.__init__|1571061088919925000|D:\Documentos\AII\Practica 1\src\__init__.py
+src.ejercicio|1571138797779711000|D:\Documentos\AII\Practica 1\src\ejercicio.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=D:\Documentos\AII\Practica 1\src\ejercicio.py
+2=src.ejercicio
+-- END DICTIONARY
+-- START TREE 1
+8
+abr|1|abrir_url!1^10#5*18@
+bus|2|buscar_tema_bd!1^86#5*18@buscar_fecha_bd!1^102#5*18@
+dat|1|datos_bd!1^28#5*18@
+est|2|estadisticas_populares_bd!1^118#5*18@estadisticas_activos_bd!1^126#5*18@
+ext|1|extraer_datos!1^16#5*18@
+imp|1|imprimir_etiqueta!1^71#5*18@
+lis|1|listar_bd!1^64#5*18@
+ven|1|ventana_principal!1^136#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

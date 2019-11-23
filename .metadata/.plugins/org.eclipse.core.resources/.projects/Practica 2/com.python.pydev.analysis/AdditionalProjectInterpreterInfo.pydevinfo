@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Documentos\AII\.metadata\.plugins\org.eclipse.core.resources\.projects\Practica 2\com.python.pydev.analysis\v2_indexcache
+src.__init__|1571666145467661000|D:\Documentos\AII\Practica 2\src\__init__.py
+src.ejercicio|1571744305254246000|D:\Documentos\AII\Practica 2\src\ejercicio.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=src.ejercicio
+1=D:\Documentos\AII\Practica 2\src\ejercicio.py
+-- END DICTIONARY
+-- START TREE 1
+7
+abr|1|abrir_url!1^11#5*18@
+alm|1|almacenar_bd!1^28#5*18@
+bus|1|buscar_bd!1^84#5*18@
+ext|1|extraer_datos!1^17#5*18@
+mos|1|mostrar_bd!1^61#5*18@
+sho|1|show_data!1^81#5*18@
+ven|1|ventana_principal!1^90#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
