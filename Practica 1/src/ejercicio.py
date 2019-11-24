@@ -1,29 +1,29 @@
 # encoding:utf-8
 
-import urllib.request, re
+import sqlite3
+import urllib.request
 from tkinter import *
 from tkinter import messagebox
+
 from bs4 import BeautifulSoup
-import sqlite3
-import os
 
-def abrir_url(url,file):
 
-    f = urllib.request.urlretrieve(url,file)
+def abrir_url(url, file):
+
+    f = urllib.request.urlretrieve(url, file)
     return file
 
 
 def extraer_datos(url):
-    fichero="foro"
+    fichero = "foro"
     if abrir_url(url,fichero):
-        f = open (fichero, encoding="latin-1")
+        f = open(fichero, encoding="latin-1")
         s = f.read()
         soup = BeautifulSoup(s, "html.parser");
         
         temas = soup.findAll('li', class_="threadbit");
-
-
         return temas
+
 
 def datos_bd():
     conn = sqlite3.connect('test.db')
