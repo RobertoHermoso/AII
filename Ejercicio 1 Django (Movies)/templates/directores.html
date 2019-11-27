@@ -1,3 +1,5 @@
+{% load auxiliar_method %}
+
 <!DOCTYPE html>
 <html lang='es'>
   <header>
@@ -11,11 +13,18 @@
 	</nav>
   </header>
   <section>
-    <h1>Usuarios</h1>
+    <h1>Directores</h1>
 	<ul>
-		{% for dato in usuarios %}
-	  	<li>{{dato.nombre}} {{dato.apellidos}} - Categoría favorita: {{ dato.categoria_preferida}}</li>
+
+		{% for director in directores%}
+       <li>  <h2> {{ director }}</h2> </li>
+            <ul>
+                {% for pelicula in directores|filter:director  %}
+               <li> {{ pelicula }} </li>
+            {% endfor %}
+            </ul>
 		{% endfor %}
+
 	</ul>
   </section>
 </html>

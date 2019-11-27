@@ -25,5 +25,7 @@ urlpatterns = [
             {'document_root': settings.MEDIA_ROOT,}),
     path('sobre/',views.sobre),
     path('usuarios/', views.usuarios),
+    path('peliculas/', views.peliculas),
+    path('directores/', views.directores),
     path('',views.inicio),
     ]
