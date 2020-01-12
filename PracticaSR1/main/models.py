@@ -1,5 +1,12 @@
+#encoding:utf-8
+
 from django.db import models
-from django.core.validators import MinValueValidator,MaxValueValidator,URLValidator
+
+
+class Etiqueta(models.Model):
+
+    tagValue = models.TextField(max_length=100)
+    idTag = models.IntegerField(primary_key=True)
 
 
 class Artista(models.Model):
@@ -9,8 +16,13 @@ class Artista(models.Model):
     pictureUrl = models.URLField()
     nombre = models.TextField(max_length=100)
     idArtista = models.IntegerField(primary_key=True)
-    etiquetasFrec = models.ManyToManyField('Etiqueta')
+    etiquetas_freq = models.ManyToManyField(Etiqueta)
 
+    def __str__(self):
+        return self.nombre
+
+    class Meta:
+        ordering = ('nombre',)
 
 
 class UsuarioEtiquetaArtista(models.Model):
@@ -23,8 +35,6 @@ class UsuarioEtiquetaArtista(models.Model):
     #  Fields
     fecha = models.DateField()
     idUsuarioEtiquetaArtista = models.IntegerField(primary_key=True)
-
-
 
 
 class Usuario(models.Model):
@@ -44,8 +54,3 @@ class UsuarioArtista(models.Model):
     tiempoEscucha = models.IntegerField()
     idUsuarioArtista = models.IntegerField(primary_key=True)
 
-
-class Etiqueta(models.Model):
-    #  Fields
-    tagValue = models.TextField(max_length=100)
-    idTag = models.IntegerField(primary_key=True)
