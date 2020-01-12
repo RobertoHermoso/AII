@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b3b417-8e7c-4fe7-8cea-6f9bb886bd07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticaSR1/main/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AII.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AII.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 5 Django/EjercicioDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practica 5 Django/EjercicioDjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticaSR1/PracticaSR1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticaSR1/PracticaSR1/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticaSR1/PracticaSR1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticaSR1/PracticaSR1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticaSR1/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticaSR1/main/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticaSR1/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticaSR1/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

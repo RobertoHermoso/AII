@@ -1,0 +1,14 @@
+{% extends 'index.html' %}
+{% block content %}
+
+
+{% for artist in artists%}
+        <ul>
+			<li>Url: {{artist.pictureUrl}}<</li>
+            <li>Name: {{artist.nombre}}</li>
+            <li>Listen time: {{artist.time}}</li>
+            <br>
+		</ul>
+{% endfor %}
+
+{% endblock %}

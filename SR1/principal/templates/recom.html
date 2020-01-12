@@ -1,0 +1,19 @@
+  
+{% extends 'index.html' %}
+{% block content %}
+<form method="post">
+    {% csrf_token %}
+    {{ form }}
+    <button type="submit">Search</button>
+</form>
+
+{% for artist in artists%}
+        <ul>
+			<li>Id: {{artist.0.idArtista}}</li>
+            <li>Name: {{artist.0.nombre}}</li>
+            <li>Tags in common: {{artist.1}}</li>
+            <br>
+		</ul>
+{% endfor %}
+
+{% endblock %}
